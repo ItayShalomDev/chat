@@ -1,0 +1,53 @@
+2025-12-28 09:44:46,913 - socket_client - INFO - Connected to server
+2025-12-28 09:44:52,530 - socket_client - INFO - Sending: hello
+2025-12-28 09:44:52,531 - socket_client - INFO - Received: HELLO
+2025-12-28 09:45:19,079 - socket_client - INFO - Connection closed
+2026-01-07 21:54:04,001 - socket_client - ERROR - Error receiving message: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-07 21:55:49,847 - socket_client - ERROR - Error receiving message: [WinError 10053] An established connection was aborted by the software in your host machine
+2026-01-07 21:55:49,848 - socket_client - ERROR - Error receiving message: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-07 22:02:52,485 - socket_client - ERROR - Error receiving message: [WinError 10053] An established connection was aborted by the software in your host machine
+2026-01-07 22:18:18,404 - socket_client - ERROR - Error receiving message: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-07 22:18:18,404 - socket_client - ERROR - Error receiving message: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-07 22:24:54,355 - socket_client - ERROR - Error receiving message: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-07 22:26:10,194 - socket_client - ERROR - Error receiving message: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-07 22:26:10,194 - socket_client - ERROR - Error receiving message: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-07 22:28:53,975 - socket_client - ERROR - Error receiving message: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-07 22:33:35,031 - socket_client - ERROR - Error receiving message: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-07 22:35:12,350 - socket_client - ERROR - Error receiving message: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-07 22:37:32,669 - socket_client - ERROR - Error receiving message: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-07 22:37:50,224 - socket_client - ERROR - Error receiving message: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-07 22:38:24,713 - socket_client - ERROR - Error receiving message: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-07 22:39:34,851 - socket_client - ERROR - Error receiving message: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-07 22:40:16,099 - socket_client - ERROR - Error receiving message: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-07 22:44:02,901 - socket_client - ERROR - Error receiving message: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-07 22:44:37,782 - socket_client - ERROR - Error receiving message: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-07 23:03:05,180 - socket_client - ERROR - Error receiving message: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-07 23:06:10,504 - socket_client - ERROR - Error receiving message: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-07 23:06:18,659 - socket_client - ERROR - Error receiving message: [WinError 10053] An established connection was aborted by the software in your host machine
+2026-01-07 23:08:35,513 - socket_client - ERROR - Error receiving message: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-07 23:08:35,513 - socket_client - ERROR - Error receiving message: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-07 23:11:21,163 - socket_client - ERROR - Error receiving message: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-07 23:11:21,163 - socket_client - ERROR - Error receiving message: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-07 23:11:59,929 - socket_client - ERROR - Error receiving message: [WinError 10053] An established connection was aborted by the software in your host machine
+2026-01-07 23:16:22,759 - socket_client - ERROR - Error receiving message: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-07 23:17:09,232 - socket_client - ERROR - Error receiving message: [WinError 10053] An established connection was aborted by the software in your host machine
+2026-01-07 23:17:46,923 - socket_client - ERROR - Error receiving message: [WinError 10053] An established connection was aborted by the software in your host machine
+2026-01-07 23:19:19,999 - socket_client - ERROR - Error receiving message: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-07 23:19:35,687 - socket_client - ERROR - Error receiving message: [WinError 10053] An established connection was aborted by the software in your host machine
+2026-01-07 23:21:44,431 - socket_client - ERROR - Error receiving message: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-07 23:21:51,713 - socket_client - ERROR - An error occurred: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-07 23:22:03,481 - socket_client - ERROR - Error receiving message: [WinError 10053] An established connection was aborted by the software in your host machine
+2026-01-07 23:26:43,002 - socket_client - ERROR - Error receiving message: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-07 23:32:25,931 - socket_client - ERROR - Error receiving message: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-07 23:33:05,566 - socket_client - ERROR - Error receiving message: [WinError 10053] An established connection was aborted by the software in your host machine
+2026-01-07 23:33:42,193 - socket_client - ERROR - Error receiving message: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-07 23:33:59,601 - socket_client - ERROR - Error receiving message: [WinError 10053] An established connection was aborted by the software in your host machine
+2026-01-07 23:34:35,961 - socket_client - ERROR - Error receiving message: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-07 23:37:26,434 - socket_client - ERROR - Error receiving message: [WinError 10053] An established connection was aborted by the software in your host machine
+2026-01-07 23:38:01,361 - socket_client - ERROR - Error receiving message: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-07 23:38:14,420 - socket_client - ERROR - Error receiving message: [WinError 10053] An established connection was aborted by the software in your host machine
+2026-01-07 23:39:41,395 - socket_client - ERROR - Error receiving message: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-07 23:42:18,976 - socket_client - ERROR - Error receiving message: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-07 23:43:33,062 - socket_client - ERROR - Error receiving message: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-07 23:44:14,584 - socket_client - ERROR - Error receiving message: [WinError 10053] An established connection was aborted by the software in your host machine
+2026-01-07 23:44:34,412 - socket_client - ERROR - Error receiving message: [WinError 10053] An established connection was aborted by the software in your host machine

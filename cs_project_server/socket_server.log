@@ -1,0 +1,968 @@
+2025-12-28 09:25:05,078 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2025-12-28 09:25:05,079 - socket_server - INFO - Server is running and waiting for connections...
+2025-12-28 09:25:30,578 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2025-12-28 09:25:30,579 - socket_server - INFO - Server is running and waiting for connections...
+2025-12-28 09:25:45,998 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2025-12-28 09:25:45,999 - socket_server - INFO - Server is running and waiting for connections...
+2025-12-28 09:25:45,999 - socket_server - DEBUG - Admin command interface started.
+2025-12-28 09:27:24,371 - socket_server - INFO - Accepted connection from ('127.0.0.1', 65531)
+2025-12-28 09:27:38,969 - socket_server - INFO - Connection closed from ('127.0.0.1', 65531)
+2025-12-28 09:27:39,544 - socket_server - INFO - Accepted connection from ('127.0.0.1', 64953)
+2025-12-28 09:44:24,379 - socket_server - INFO - Connection closed from ('127.0.0.1', 64953)
+2025-12-28 09:44:46,913 - socket_server - INFO - Accepted connection from ('127.0.0.1', 58296)
+2025-12-28 09:44:52,531 - socket_server - INFO - Received data from ('127.0.0.1', 58296): hello
+2025-12-28 09:45:19,079 - socket_server - INFO - Connection closed from ('127.0.0.1', 58296)
+2025-12-28 09:46:33,487 - socket_server - INFO - Accepted connection from ('127.0.0.1', 51477)
+2025-12-28 09:46:38,022 - socket_server - INFO - Received data from ('127.0.0.1', 51477): hello
+2025-12-28 10:30:05,054 - socket_server - INFO - Connection closed from ('127.0.0.1', 51477)
+2026-01-01 19:41:24,723 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-01 19:41:24,724 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-01 19:41:24,724 - socket_server - DEBUG - Admin command interface started.
+2026-01-01 19:41:27,921 - socket_server - INFO - Accepted connection from ('127.0.0.1', 63630)
+2026-01-01 19:42:58,534 - socket_server - INFO - Accepted connection from ('127.0.0.1', 57305)
+2026-01-01 19:43:10,735 - socket_server - INFO - Client ('127.0.0.1', 57305) set name to 
+2026-01-01 19:43:24,420 - socket_server - INFO - Accepted connection from ('127.0.0.1', 57318)
+2026-01-01 19:44:10,035 - socket_server - INFO - Client ('127.0.0.1', 57318) set name to itay
+2026-01-01 19:47:31,531 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-01 19:47:31,531 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-01 19:47:31,531 - socket_server - DEBUG - Admin command interface started.
+2026-01-01 19:47:39,021 - socket_server - INFO - Accepted connection from ('127.0.0.1', 58400)
+2026-01-01 19:47:41,692 - socket_server - INFO - Client ('127.0.0.1', 58400) set name to itay
+2026-01-01 19:56:27,668 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-01 19:56:27,669 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-01 19:56:27,669 - socket_server - DEBUG - Admin command interface started.
+2026-01-01 19:56:31,330 - socket_server - INFO - Accepted connection from ('127.0.0.1', 51205)
+2026-01-01 19:56:42,573 - socket_server - INFO - Client ('127.0.0.1', 51205) set name to Itay
+2026-01-01 19:56:47,534 - socket_server - INFO - Received data from ('127.0.0.1', 51205): taw
+2026-01-01 19:56:51,624 - socket_server - INFO - Received data from ('127.0.0.1', 51205): awet
+2026-01-01 19:58:30,666 - socket_server - INFO - Received data from ('127.0.0.1', 51205): asd
+2026-01-01 19:58:43,474 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-01 19:58:43,475 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-01 19:58:43,475 - socket_server - DEBUG - Admin command interface started.
+2026-01-01 20:00:28,118 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-01 20:00:28,119 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-01 20:00:28,119 - socket_server - DEBUG - Admin command interface started.
+2026-01-01 20:00:30,194 - socket_server - INFO - Accepted connection from ('127.0.0.1', 57757)
+2026-01-01 20:00:30,235 - socket_server - INFO - Client ('127.0.0.1', 57757) set name to 
+2026-01-01 20:00:30,235 - socket_server - ERROR - Error handling client ('127.0.0.1', 57757): [WinError 10053] An established connection was aborted by the software in your host machine
+2026-01-01 20:00:30,352 - socket_server - INFO - Accepted connection from ('127.0.0.1', 57758)
+2026-01-01 20:00:33,549 - socket_server - INFO - Client ('127.0.0.1', 57758) set name to itay
+2026-01-01 20:00:37,344 - socket_server - INFO - Received data from ('127.0.0.1', 57758): h
+2026-01-01 20:00:47,249 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-01 20:00:47,250 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-01 20:00:47,250 - socket_server - DEBUG - Admin command interface started.
+2026-01-01 20:00:48,889 - socket_server - INFO - Accepted connection from ('127.0.0.1', 57761)
+2026-01-01 20:00:51,766 - socket_server - INFO - Client ('127.0.0.1', 57761) set name to itay
+2026-01-01 20:00:53,696 - socket_server - INFO - Starting chat 0
+2026-01-01 20:00:53,697 - socket_server - INFO - Created new chat room 0 for client ('127.0.0.1', 57761)
+2026-01-01 22:39:15,281 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-01 22:39:15,284 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-01 22:39:15,284 - socket_server - DEBUG - Admin command interface started.
+2026-01-01 22:39:53,136 - socket_server - INFO - Accepted connection from ('127.0.0.1', 53646)
+2026-01-01 22:39:56,392 - socket_server - INFO - Client ('127.0.0.1', 53646) set name to Itay
+2026-01-01 22:40:04,465 - socket_server - INFO - Starting chat 0
+2026-01-01 22:40:04,465 - socket_server - INFO - Created new chat room 0 for client ('127.0.0.1', 53646)
+2026-01-01 22:40:18,997 - socket_server - INFO - Received message from ('127.0.0.1', 53646): hello
+2026-01-01 22:47:21,677 - socket_server - ERROR - Error receiving message from ('127.0.0.1', 53646): [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-01 22:47:21,939 - socket_server - INFO - Accepted connection from ('127.0.0.1', 61889)
+2026-01-01 22:47:27,843 - socket_server - INFO - Client ('127.0.0.1', 61889) set name to hello
+2026-01-01 22:48:22,277 - socket_server - INFO - Starting chat 1
+2026-01-01 22:48:22,277 - socket_server - INFO - Created new chat room 1 for client ('127.0.0.1', 61889)
+2026-01-01 22:48:29,509 - socket_server - INFO - Received message from ('127.0.0.1', 61889): how
+2026-01-01 22:48:30,757 - socket_server - INFO - Received message from ('127.0.0.1', 61889): are
+2026-01-01 22:48:32,083 - socket_server - INFO - Received message from ('127.0.0.1', 61889): you
+2026-01-01 22:50:35,711 - socket_server - INFO - Accepted connection from ('127.0.0.1', 54490)
+2026-01-01 22:50:45,806 - socket_server - INFO - Client ('127.0.0.1', 54490) set name to itay
+2026-01-01 22:51:11,538 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-01 22:51:11,540 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-01 22:51:11,540 - socket_server - DEBUG - Admin command interface started.
+2026-01-01 22:51:23,722 - socket_server - INFO - Accepted connection from ('127.0.0.1', 55290)
+2026-01-01 22:54:07,876 - socket_server - INFO - Accepted connection from ('127.0.0.1', 55025)
+2026-01-01 22:54:21,449 - socket_server - INFO - Client ('127.0.0.1', 55025) set name to hello
+2026-01-01 22:55:46,491 - socket_server - INFO - Received data from ('127.0.0.1', 55025): hello
+2026-01-01 22:55:47,814 - socket_server - INFO - Received data from ('127.0.0.1', 55025): how
+2026-01-01 22:55:48,995 - socket_server - INFO - Received data from ('127.0.0.1', 55025): are 
+2026-01-01 22:55:50,476 - socket_server - INFO - Received data from ('127.0.0.1', 55025): you
+2026-01-01 22:56:11,206 - socket_server - INFO - Received data from ('127.0.0.1', 55025): how
+2026-01-01 23:03:41,010 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-01 23:03:41,011 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-01 23:03:41,012 - socket_server - DEBUG - Admin command interface started.
+2026-01-01 23:03:46,452 - socket_server - INFO - Accepted connection from ('127.0.0.1', 49678)
+2026-01-01 23:03:54,195 - socket_server - INFO - Client ('127.0.0.1', 49678) set name to Itay
+2026-01-01 23:04:01,835 - socket_server - INFO - Starting chat 0
+2026-01-01 23:04:01,836 - socket_server - INFO - Created new chat room 0 for client ('127.0.0.1', 49678)
+2026-01-01 23:04:11,662 - socket_server - INFO - Accepted connection from ('127.0.0.1', 49696)
+2026-01-01 23:04:19,699 - socket_server - INFO - Client ('127.0.0.1', 49696) set name to moshe
+2026-01-01 23:04:24,451 - socket_server - INFO - Client ('127.0.0.1', 49696) joined chat room 0
+2026-01-01 23:04:28,532 - socket_server - INFO - Received message from ('127.0.0.1', 49696): hello
+2026-01-01 23:08:48,133 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-01 23:08:48,135 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-01 23:08:48,135 - socket_server - DEBUG - Admin command interface started.
+2026-01-01 23:09:02,728 - socket_server - INFO - Accepted connection from ('127.0.0.1', 63430)
+2026-01-01 23:09:06,555 - socket_server - INFO - Client ('127.0.0.1', 63430) set name to Itay
+2026-01-01 23:09:09,526 - socket_server - INFO - Starting chat 0
+2026-01-01 23:09:09,526 - socket_server - INFO - Created new chat room 0 for client ('127.0.0.1', 63430)
+2026-01-01 23:09:13,392 - socket_server - INFO - Received message from ('127.0.0.1', 63430): hello
+2026-01-01 23:09:16,302 - socket_server - INFO - Accepted connection from ('127.0.0.1', 63436)
+2026-01-01 23:09:24,218 - socket_server - INFO - Client ('127.0.0.1', 63436) set name to sha
+2026-01-01 23:09:26,725 - socket_server - INFO - Client ('127.0.0.1', 63436) joined chat room 0
+2026-01-01 23:09:29,217 - socket_server - INFO - Received message from ('127.0.0.1', 63436): itay
+2026-01-01 23:09:35,183 - socket_server - INFO - Received message from ('127.0.0.1', 63430): how are you
+2026-01-01 23:10:35,667 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-01 23:10:35,668 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-01 23:10:35,668 - socket_server - DEBUG - Admin command interface started.
+2026-01-01 23:10:38,346 - socket_server - INFO - Accepted connection from ('127.0.0.1', 63186)
+2026-01-01 23:10:42,331 - socket_server - INFO - Client ('127.0.0.1', 63186) set name to itay
+2026-01-01 23:10:44,222 - socket_server - INFO - Starting chat 0
+2026-01-01 23:10:44,223 - socket_server - INFO - Created new chat room 0 for client ('127.0.0.1', 63186)
+2026-01-01 23:10:47,969 - socket_server - INFO - Accepted connection from ('127.0.0.1', 63188)
+2026-01-01 23:10:51,487 - socket_server - INFO - Client ('127.0.0.1', 63188) set name to hello
+2026-01-01 23:10:53,888 - socket_server - INFO - Client ('127.0.0.1', 63188) joined chat room 0
+2026-01-01 23:10:55,901 - socket_server - INFO - Received message from ('127.0.0.1', 63188): itay
+2026-01-01 23:12:24,931 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-01 23:12:24,933 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-01 23:12:24,933 - socket_server - DEBUG - Admin command interface started.
+2026-01-01 23:12:50,237 - socket_server - INFO - Accepted connection from ('127.0.0.1', 56731)
+2026-01-01 23:12:52,647 - socket_server - INFO - Client ('127.0.0.1', 56731) set name to Itay
+2026-01-01 23:13:12,083 - socket_server - INFO - Received data from ('127.0.0.1', 56731): g
+2026-01-01 23:13:16,317 - socket_server - INFO - Starting chat 0
+2026-01-01 23:13:16,317 - socket_server - INFO - Created new chat room 0 for client ('127.0.0.1', 56731)
+2026-01-01 23:13:27,167 - socket_server - INFO - Received message from ('127.0.0.1', 56731): asd
+2026-01-01 23:13:28,227 - socket_server - INFO - Received message from ('127.0.0.1', 56731): ad
+2026-01-01 23:13:35,660 - socket_server - INFO - Accepted connection from ('127.0.0.1', 59202)
+2026-01-01 23:13:42,735 - socket_server - INFO - Client ('127.0.0.1', 59202) set name to shalom
+2026-01-01 23:13:47,339 - socket_server - INFO - Client ('127.0.0.1', 59202) joined chat room 0
+2026-01-01 23:13:54,118 - socket_server - INFO - Received message from ('127.0.0.1', 59202): Hello there!
+2026-01-01 23:13:58,641 - socket_server - INFO - Received message from ('127.0.0.1', 56731): a
+2026-01-01 23:14:28,110 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-01 23:14:28,112 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-01 23:14:28,112 - socket_server - DEBUG - Admin command interface started.
+2026-01-01 23:14:31,149 - socket_server - INFO - Accepted connection from ('127.0.0.1', 59213)
+2026-01-01 23:14:33,839 - socket_server - INFO - Client ('127.0.0.1', 59213) set name to Itay
+2026-01-01 23:14:37,048 - socket_server - INFO - Received data from ('127.0.0.1', 59213): shalom
+2026-01-01 23:14:39,606 - socket_server - INFO - Starting chat 0
+2026-01-01 23:14:39,607 - socket_server - INFO - Created new chat room 0 for client ('127.0.0.1', 59213)
+2026-01-01 23:14:42,391 - socket_server - INFO - Accepted connection from ('127.0.0.1', 59215)
+2026-01-01 23:14:48,067 - socket_server - INFO - Client ('127.0.0.1', 59215) set name to shalom
+2026-01-01 23:14:50,288 - socket_server - INFO - Client ('127.0.0.1', 59215) joined chat room 0
+2026-01-01 23:14:53,622 - socket_server - INFO - Received message from ('127.0.0.1', 59215): hello
+2026-01-01 23:15:04,010 - socket_server - INFO - Received message from ('127.0.0.1', 59213): asd
+2026-01-01 23:15:17,555 - socket_server - INFO - Received message from ('127.0.0.1', 59215): wowowowowow
+2026-01-01 23:15:36,573 - socket_server - ERROR - Error receiving message from ('127.0.0.1', 59215): [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-01 23:15:37,905 - socket_server - INFO - Accepted connection from ('127.0.0.1', 59228)
+2026-01-01 23:15:39,740 - socket_server - INFO - Client ('127.0.0.1', 59228) set name to Itay
+2026-01-01 23:15:49,912 - socket_server - ERROR - Error receiving message from ('127.0.0.1', 59213): [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-01 23:15:49,914 - socket_server - INFO - Starting chat 0
+2026-01-01 23:15:55,631 - socket_server - INFO - Accepted connection from ('127.0.0.1', 54075)
+2026-01-01 23:15:57,088 - socket_server - INFO - Client ('127.0.0.1', 54075) set name to hello
+2026-01-01 23:16:01,984 - socket_server - INFO - Starting chat 1
+2026-01-01 23:16:01,984 - socket_server - INFO - Created new chat room 1 for client ('127.0.0.1', 54075)
+2026-01-01 23:16:07,681 - socket_server - INFO - Received data from ('127.0.0.1', 59228): a
+2026-01-01 23:16:09,751 - socket_server - INFO - Client ('127.0.0.1', 59228) joined chat room 1
+2026-01-01 23:16:13,763 - socket_server - INFO - Received message from ('127.0.0.1', 59228): hello
+2026-01-01 23:16:20,084 - socket_server - INFO - Received message from ('127.0.0.1', 54075): hey
+2026-01-01 23:16:48,469 - socket_server - INFO - Received message from ('127.0.0.1', 54075): asdfsadf
+2026-01-01 23:16:57,959 - socket_server - INFO - Received message from ('127.0.0.1', 59228): asdfasdfvcxzv
+2026-01-01 23:17:05,937 - socket_server - INFO - Accepted connection from ('127.0.0.1', 49216)
+2026-01-01 23:17:11,194 - socket_server - INFO - Client ('127.0.0.1', 49216) set name to dav
+2026-01-01 23:21:25,240 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-01 23:21:25,242 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-01 23:21:25,242 - socket_server - DEBUG - Admin command interface started.
+2026-01-01 23:21:30,782 - socket_server - INFO - Accepted connection from ('127.0.0.1', 49262)
+2026-01-01 23:21:32,239 - socket_server - INFO - Client ('127.0.0.1', 49262) set name to itay
+2026-01-01 23:21:33,775 - socket_server - INFO - Starting chat 0
+2026-01-01 23:21:33,776 - socket_server - INFO - Created new chat room 0 for client ('127.0.0.1', 49262)
+2026-01-01 23:21:37,887 - socket_server - INFO - Accepted connection from ('127.0.0.1', 49269)
+2026-01-01 23:21:41,286 - socket_server - INFO - Client ('127.0.0.1', 49269) set name to joe
+2026-01-01 23:21:41,287 - socket_server - ERROR - Error handling client ('127.0.0.1', 49269): sequence item 0: expected str instance, list found
+2026-01-01 23:21:59,036 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-01 23:21:59,038 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-01 23:21:59,038 - socket_server - DEBUG - Admin command interface started.
+2026-01-01 23:22:02,065 - socket_server - INFO - Accepted connection from ('127.0.0.1', 49275)
+2026-01-01 23:22:03,709 - socket_server - INFO - Client ('127.0.0.1', 49275) set name to Itay
+2026-01-01 23:22:05,408 - socket_server - INFO - Starting chat 0
+2026-01-01 23:22:05,409 - socket_server - INFO - Created new chat room 0 for client ('127.0.0.1', 49275)
+2026-01-01 23:22:08,847 - socket_server - INFO - Accepted connection from ('127.0.0.1', 49276)
+2026-01-01 23:22:11,008 - socket_server - INFO - Client ('127.0.0.1', 49276) set name to joe
+2026-01-01 23:23:37,479 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-01 23:23:37,481 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-01 23:23:37,481 - socket_server - DEBUG - Admin command interface started.
+2026-01-01 23:23:40,613 - socket_server - INFO - Accepted connection from ('127.0.0.1', 49295)
+2026-01-01 23:23:42,399 - socket_server - INFO - Client ('127.0.0.1', 49295) set name to itay
+2026-01-01 23:23:46,702 - socket_server - INFO - Accepted connection from ('127.0.0.1', 49296)
+2026-01-01 23:23:47,481 - socket_server - INFO - Client ('127.0.0.1', 49296) set name to a
+2026-01-01 23:23:50,574 - socket_server - INFO - Starting chat 0
+2026-01-01 23:23:50,574 - socket_server - INFO - Created new chat room 0 for client ('127.0.0.1', 49296)
+2026-01-01 23:23:53,245 - socket_server - INFO - Received data from ('127.0.0.1', 49295): a
+2026-01-01 23:24:21,278 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-01 23:24:21,280 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-01 23:24:21,280 - socket_server - DEBUG - Admin command interface started.
+2026-01-01 23:24:28,931 - socket_server - INFO - Accepted connection from ('127.0.0.1', 49304)
+2026-01-01 23:24:33,931 - socket_server - INFO - Client ('127.0.0.1', 49304) set name to itay
+2026-01-01 23:24:46,768 - socket_server - INFO - Accepted connection from ('127.0.0.1', 49313)
+2026-01-01 23:24:48,718 - socket_server - INFO - Client ('127.0.0.1', 49313) set name to joe
+2026-01-01 23:24:53,851 - socket_server - INFO - Starting chat 0
+2026-01-01 23:24:53,852 - socket_server - INFO - Created new chat room 0 for client ('127.0.0.1', 49304)
+2026-01-01 23:24:57,449 - socket_server - INFO - Received data from ('127.0.0.1', 49313): a
+2026-01-01 23:25:01,839 - socket_server - INFO - Client ('127.0.0.1', 49313) joined chat room 0
+2026-01-01 23:25:05,631 - socket_server - INFO - Received message from ('127.0.0.1', 49313): Hello
+2026-01-01 23:25:10,663 - socket_server - INFO - Received message from ('127.0.0.1', 49304): hey
+2026-01-01 23:25:15,347 - socket_server - INFO - Accepted connection from ('127.0.0.1', 60137)
+2026-01-01 23:25:19,303 - socket_server - INFO - Client ('127.0.0.1', 60137) set name to moshe
+2026-01-01 23:25:21,899 - socket_server - INFO - Client ('127.0.0.1', 60137) joined chat room 0
+2026-01-01 23:25:26,411 - socket_server - INFO - Received message from ('127.0.0.1', 60137): Itay
+2026-01-01 23:27:05,234 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-01 23:27:05,236 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-01 23:27:05,236 - socket_server - DEBUG - Admin command interface started.
+2026-01-01 23:28:22,840 - socket_server - INFO - Accepted connection from ('127.0.0.1', 51885)
+2026-01-01 23:28:36,204 - socket_server - INFO - Accepted connection from ('127.0.0.1', 51888)
+2026-01-01 23:29:15,023 - socket_server - INFO - Client ('127.0.0.1', 51888) set name to Itay
+2026-01-01 23:29:22,794 - socket_server - INFO - Starting chat 0
+2026-01-01 23:29:22,795 - socket_server - INFO - Created new chat room 0 for client ('127.0.0.1', 51888)
+2026-01-01 23:29:34,413 - socket_server - INFO - Client ('127.0.0.1', 51885) set name to Moshe
+2026-01-01 23:30:22,350 - socket_server - INFO - Client ('127.0.0.1', 51885) joined chat room 0
+2026-01-01 23:30:29,170 - socket_server - INFO - Received message from ('127.0.0.1', 51885): hello
+2026-01-01 23:30:35,174 - socket_server - INFO - Received message from ('127.0.0.1', 51885): how are you?
+2026-01-01 23:30:41,038 - socket_server - INFO - Received message from ('127.0.0.1', 51888): fine, thanks
+2026-01-01 23:34:20,669 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-01 23:34:20,671 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-01 23:34:20,671 - socket_server - DEBUG - Admin command interface started.
+2026-01-01 23:34:27,750 - socket_server - INFO - Accepted connection from ('127.0.0.1', 59232)
+2026-01-01 23:34:31,323 - socket_server - ERROR - Error handling client ('127.0.0.1', 59232): [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-01 23:34:38,199 - socket_server - INFO - Accepted connection from ('127.0.0.1', 53335)
+2026-01-01 23:34:41,607 - socket_server - INFO - Accepted connection from ('127.0.0.1', 53336)
+2026-01-01 23:34:57,350 - socket_server - INFO - Client ('127.0.0.1', 53335) set name to Itay
+2026-01-01 23:35:06,209 - socket_server - INFO - Client ('127.0.0.1', 53336) set name to Ofir
+2026-01-01 23:35:13,524 - socket_server - INFO - Starting chat 0
+2026-01-01 23:35:13,525 - socket_server - INFO - Created new chat room 0 for client ('127.0.0.1', 53336)
+2026-01-01 23:35:15,794 - socket_server - INFO - Received data from ('127.0.0.1', 53335): A
+2026-01-01 23:35:33,721 - socket_server - INFO - Client ('127.0.0.1', 53335) joined chat room 0
+2026-01-01 23:35:38,316 - socket_server - INFO - Received message from ('127.0.0.1', 53335): HELLO
+2026-01-01 23:35:43,793 - socket_server - INFO - Received message from ('127.0.0.1', 53336): HWT
+2026-01-01 23:35:47,972 - socket_server - INFO - Received message from ('127.0.0.1', 53335): SADASD
+2026-01-01 23:35:49,478 - socket_server - INFO - Received message from ('127.0.0.1', 53335): ASDSAD
+2026-01-01 23:35:49,738 - socket_server - INFO - Received message from ('127.0.0.1', 53335): D
+2026-01-01 23:35:49,964 - socket_server - INFO - Received message from ('127.0.0.1', 53335): D
+2026-01-01 23:35:50,186 - socket_server - INFO - Received message from ('127.0.0.1', 53335): D
+2026-01-01 23:35:52,293 - socket_server - INFO - Received message from ('127.0.0.1', 53336): FSAFASF
+2026-01-01 23:35:53,810 - socket_server - INFO - Received message from ('127.0.0.1', 53336): DSAD
+2026-01-01 23:35:54,792 - socket_server - INFO - Received message from ('127.0.0.1', 53336): SAD
+2026-01-01 23:39:28,312 - socket_server - INFO - Received message from ('127.0.0.1', 53336): hello
+2026-01-01 23:39:30,873 - socket_server - INFO - Received message from ('127.0.0.1', 53335): how
+2026-01-01 23:39:32,800 - socket_server - INFO - Received message from ('127.0.0.1', 53335): are you
+2026-01-01 23:41:02,461 - socket_server - ERROR - Error receiving message from ('127.0.0.1', 53335): [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-01 23:51:44,686 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-01 23:51:44,688 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-01 23:51:44,688 - socket_server - DEBUG - Admin command interface started.
+2026-01-01 23:52:09,024 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-01 23:52:09,025 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-01 23:52:09,026 - socket_server - DEBUG - Admin command interface started.
+2026-01-01 23:52:11,763 - socket_server - INFO - Accepted connection from ('127.0.0.1', 52346)
+2026-01-01 23:52:13,261 - socket_server - INFO - Client ('127.0.0.1', 52346) set name to itay
+2026-01-01 23:52:20,641 - socket_server - INFO - Starting chat 0
+2026-01-01 23:52:20,641 - socket_server - INFO - Created new chat room 0 for client ('127.0.0.1', 52346)
+2026-01-01 23:52:33,104 - socket_server - INFO - Accepted connection from ('127.0.0.1', 63806)
+2026-01-01 23:52:48,407 - socket_server - INFO - Client ('127.0.0.1', 63806) set name to Moshe
+2026-01-01 23:53:58,960 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-01 23:53:58,962 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-01 23:53:58,962 - socket_server - DEBUG - Admin command interface started.
+2026-01-01 23:54:07,817 - socket_server - INFO - Accepted connection from ('127.0.0.1', 64410)
+2026-01-01 23:54:11,615 - socket_server - INFO - Accepted connection from ('127.0.0.1', 64411)
+2026-01-01 23:54:32,823 - socket_server - INFO - Client ('127.0.0.1', 64411) set name to Itay
+2026-01-01 23:54:46,841 - socket_server - INFO - Client ('127.0.0.1', 64410) set name to David
+2026-01-01 23:54:57,759 - socket_server - INFO - Received data from ('127.0.0.1', 64410): l
+2026-01-02 00:05:50,792 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-02 00:05:50,794 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-02 00:05:50,794 - socket_server - DEBUG - Admin command interface started.
+2026-01-02 00:05:54,537 - socket_server - INFO - Accepted connection from ('127.0.0.1', 64991)
+2026-01-02 00:05:56,135 - socket_server - INFO - Client ('127.0.0.1', 64991) set name to Itay
+2026-01-02 00:06:00,625 - socket_server - ERROR - Error handling client ('127.0.0.1', 64991): ConnectionHandler.create_new_chat() takes 1 positional argument but 2 were given
+2026-01-02 00:06:13,861 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-02 00:06:13,862 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-02 00:06:13,862 - socket_server - DEBUG - Admin command interface started.
+2026-01-02 00:06:17,983 - socket_server - INFO - Accepted connection from ('127.0.0.1', 60925)
+2026-01-02 00:06:19,639 - socket_server - INFO - Client ('127.0.0.1', 60925) set name to Itay
+2026-01-02 00:06:22,845 - socket_server - INFO - Starting chat 0
+2026-01-02 00:06:22,846 - socket_server - INFO - Created new chat room 0 for client ('127.0.0.1', 60925)
+2026-01-02 00:06:33,993 - socket_server - INFO - Accepted connection from ('127.0.0.1', 60932)
+2026-01-02 00:06:37,751 - socket_server - INFO - Client ('127.0.0.1', 60932) set name to Shalom
+2026-01-02 00:07:51,032 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-02 00:07:51,034 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-02 00:07:51,034 - socket_server - DEBUG - Admin command interface started.
+2026-01-02 00:07:53,376 - socket_server - INFO - Accepted connection from ('127.0.0.1', 61773)
+2026-01-02 00:07:55,491 - socket_server - INFO - Client ('127.0.0.1', 61773) set name to Itay
+2026-01-02 00:07:57,350 - socket_server - INFO - Starting chat 0
+2026-01-02 00:07:57,350 - socket_server - INFO - Created new chat room 0 for client ('127.0.0.1', 61773)
+2026-01-02 00:08:00,364 - socket_server - INFO - Accepted connection from ('127.0.0.1', 61775)
+2026-01-02 00:08:03,043 - socket_server - INFO - Client ('127.0.0.1', 61775) set name to Shalom
+2026-01-02 00:08:19,843 - socket_server - INFO - Client ('127.0.0.1', 61775) joined chat room 0
+2026-01-02 00:08:22,926 - socket_server - INFO - Received message from ('127.0.0.1', 61775): hello
+2026-01-02 00:08:27,170 - socket_server - INFO - Received message from ('127.0.0.1', 61775): how are you
+2026-01-02 00:12:24,029 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-02 00:12:24,030 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-02 00:12:24,031 - socket_server - DEBUG - Admin command interface started.
+2026-01-02 00:12:27,739 - socket_server - INFO - Accepted connection from ('127.0.0.1', 56046)
+2026-01-02 00:12:30,135 - socket_server - INFO - Accepted connection from ('127.0.0.1', 56050)
+2026-01-02 00:12:32,743 - socket_server - INFO - Client ('127.0.0.1', 56050) set name to Itay
+2026-01-02 00:12:35,744 - socket_server - INFO - Starting chat 0
+2026-01-02 00:12:35,745 - socket_server - INFO - Created new chat room 0 for client ('127.0.0.1', 56050)
+2026-01-02 00:12:38,395 - socket_server - INFO - Client ('127.0.0.1', 56046) set name to hello
+2026-01-02 00:12:45,833 - socket_server - INFO - Client ('127.0.0.1', 56046) joined chat room 0
+2026-01-02 12:10:09,316 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-02 12:10:09,317 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-02 12:10:09,318 - socket_server - DEBUG - Admin command interface started.
+2026-01-02 12:10:17,713 - socket_server - INFO - Accepted connection from ('127.0.0.1', 58140)
+2026-01-02 12:10:24,491 - socket_server - INFO - Accepted connection from ('127.0.0.1', 58141)
+2026-01-02 12:10:43,219 - socket_server - INFO - Client ('127.0.0.1', 58140) set name to daniel
+2026-01-02 12:10:55,663 - socket_server - INFO - Starting chat 0
+2026-01-02 12:10:55,664 - socket_server - INFO - Created new chat room 0 for client ('127.0.0.1', 58140)
+2026-01-02 12:11:05,442 - socket_server - INFO - Client ('127.0.0.1', 58141) set name to yuval
+2026-01-02 12:11:17,597 - socket_server - ERROR - Error handling client ('127.0.0.1', 58141): type object 'ConnectionHandler' has no attribute 'assign_client_to_room'
+2026-01-02 12:11:58,542 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-02 12:11:58,544 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-02 12:11:58,544 - socket_server - DEBUG - Admin command interface started.
+2026-01-02 12:12:03,744 - socket_server - INFO - Accepted connection from ('127.0.0.1', 60917)
+2026-01-02 12:12:06,437 - socket_server - INFO - Accepted connection from ('127.0.0.1', 60920)
+2026-01-02 12:12:08,948 - socket_server - INFO - Client ('127.0.0.1', 60920) set name to Daniel
+2026-01-02 12:12:13,079 - socket_server - INFO - Client ('127.0.0.1', 60917) set name to Yuval
+2026-01-02 12:12:15,475 - socket_server - INFO - Starting chat 0
+2026-01-02 12:12:15,476 - socket_server - INFO - Created new chat room 0 for client ('127.0.0.1', 60920)
+2026-01-02 12:12:17,491 - socket_server - INFO - Client ('127.0.0.1', 60917) joined chat room 0
+2026-01-02 12:12:30,167 - socket_server - INFO - Received message from ('127.0.0.1', 60917): hello
+2026-01-02 12:12:34,960 - socket_server - INFO - Received message from ('127.0.0.1', 60920): hey
+2026-01-02 12:12:36,698 - socket_server - INFO - Received message from ('127.0.0.1', 60920): g
+2026-01-02 12:12:37,231 - socket_server - INFO - Received message from ('127.0.0.1', 60920): g\g
+2026-01-02 12:12:37,964 - socket_server - INFO - Received message from ('127.0.0.1', 60920): g
+2026-01-02 12:34:28,551 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-02 12:34:28,553 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-02 12:34:28,553 - socket_server - DEBUG - Admin command interface started.
+2026-01-02 12:34:28,553 - socket_server - ERROR - Error removing disconnected clients: name 'clients' is not defined
+2026-01-02 12:35:26,194 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-02 12:35:26,196 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-02 12:35:26,196 - socket_server - DEBUG - Admin command interface started.
+2026-01-02 12:35:26,197 - socket_server - ERROR - Error removing disconnected clients: name 'clients' is not defined
+2026-01-02 12:35:32,140 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-02 12:35:32,142 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-02 12:35:32,143 - socket_server - ERROR - Error removing disconnected clients: name 'clients' is not defined
+2026-01-02 12:35:32,142 - socket_server - DEBUG - Admin command interface started.
+2026-01-02 12:36:13,521 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-02 12:36:13,523 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-02 12:36:13,523 - socket_server - DEBUG - Admin command interface started.
+2026-01-02 12:36:19,813 - socket_server - INFO - Accepted connection from ('127.0.0.1', 61598)
+2026-01-02 12:36:21,843 - socket_server - INFO - Client ('127.0.0.1', 61598) set name to hello
+2026-01-02 12:36:27,056 - socket_server - INFO - Received data from ('127.0.0.1', 61598): e
+2026-01-02 12:36:28,044 - socket_server - INFO - Received data from ('127.0.0.1', 61598): a
+2026-01-02 12:36:29,262 - socket_server - ERROR - Error handling client ('127.0.0.1', 61598): '<' not supported between instances of 'int' and 'str'
+2026-01-02 12:37:22,784 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-02 12:37:22,785 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-02 12:37:22,786 - socket_server - DEBUG - Admin command interface started.
+2026-01-02 12:37:25,490 - socket_server - INFO - Accepted connection from ('127.0.0.1', 65498)
+2026-01-02 12:37:27,588 - socket_server - INFO - Client ('127.0.0.1', 65498) set name to itay
+2026-01-02 12:37:29,567 - socket_server - INFO - Starting chat 0
+2026-01-02 12:37:29,568 - socket_server - INFO - Created new chat room 0 for client ('127.0.0.1', 65498)
+2026-01-02 12:37:33,498 - socket_server - INFO - Accepted connection from ('127.0.0.1', 65501)
+2026-01-02 12:37:34,214 - socket_server - INFO - Client ('127.0.0.1', 65501) set name to sadf
+2026-01-02 12:37:36,260 - socket_server - INFO - Client ('127.0.0.1', 65501) joined chat room 0
+2026-01-02 12:37:38,785 - socket_server - INFO - Received message from ('127.0.0.1', 65501): hello
+2026-01-02 12:37:43,002 - socket_server - INFO - Received message from ('127.0.0.1', 65501): how are you?
+2026-01-02 12:37:50,810 - socket_server - INFO - Received message from ('127.0.0.1', 65501): asdfffsaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasdfffsaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasdfffsaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasdfffsaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasdfffsaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasdfffsaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasdfffsaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasdfffsaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasdfffsaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasdfffsaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+2026-01-02 12:37:55,918 - socket_server - INFO - Received message from ('127.0.0.1', 65501): sadasd
+2026-01-02 12:38:04,262 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-02 12:38:04,264 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-02 12:38:04,264 - socket_server - DEBUG - Admin command interface started.
+2026-01-02 12:38:08,337 - socket_server - INFO - Accepted connection from ('127.0.0.1', 51042)
+2026-01-02 12:38:10,848 - socket_server - INFO - Accepted connection from ('127.0.0.1', 51043)
+2026-01-02 12:38:12,529 - socket_server - INFO - Client ('127.0.0.1', 51043) set name to it
+2026-01-02 12:38:12,530 - socket_server - INFO - Received data from ('127.0.0.1', 51043): ay
+2026-01-02 12:38:14,923 - socket_server - INFO - Client ('127.0.0.1', 51042) set name to sh
+2026-01-02 12:38:14,924 - socket_server - INFO - Received data from ('127.0.0.1', 51042): al
+2026-01-02 12:38:14,925 - socket_server - INFO - Received data from ('127.0.0.1', 51042): om
+2026-01-02 12:38:19,846 - socket_server - INFO - Received data from ('127.0.0.1', 51043): ne
+2026-01-02 12:38:19,847 - socket_server - INFO - Received data from ('127.0.0.1', 51043): w
+2026-01-02 12:38:27,335 - socket_server - INFO - Received data from ('127.0.0.1', 51043): ne
+2026-01-02 12:38:27,335 - socket_server - INFO - Received data from ('127.0.0.1', 51043): w
+2026-01-02 12:38:29,095 - socket_server - INFO - Received data from ('127.0.0.1', 51043): a
+2026-01-02 12:38:29,561 - socket_server - INFO - Received data from ('127.0.0.1', 51043): a
+2026-01-02 12:38:34,288 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-02 12:38:34,290 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-02 12:38:34,291 - socket_server - DEBUG - Admin command interface started.
+2026-01-02 13:18:00,253 - socket_server - INFO - Accepted connection from ('127.0.0.1', 50760)
+2026-01-02 13:18:36,760 - socket_server - ERROR - Error handling client ('127.0.0.1', 50760): [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-02 13:22:24,576 - socket_server - INFO - Accepted connection from ('127.0.0.1', 49783)
+2026-01-02 13:22:24,576 - socket_server - INFO - Accepted connection from ('127.0.0.1', 49784)
+2026-01-02 13:22:24,577 - socket_server - ERROR - Error handling client ('127.0.0.1', 49783): [WinError 10053] An established connection was aborted by the software in your host machine
+2026-01-02 13:22:24,577 - socket_server - ERROR - Error handling client ('127.0.0.1', 49784): [WinError 10053] An established connection was aborted by the software in your host machine
+2026-01-02 13:22:34,200 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-02 13:22:34,201 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-02 13:22:34,202 - socket_server - DEBUG - Admin command interface started.
+2026-01-02 13:22:53,567 - socket_server - INFO - Accepted connection from ('127.0.0.1', 49792)
+2026-01-02 13:22:53,567 - socket_server - INFO - Client ('127.0.0.1', 49792) set name to Itaynew
+2026-01-02 13:22:53,568 - socket_server - INFO - Accepted connection from ('127.0.0.1', 49793)
+2026-01-02 13:22:53,568 - socket_server - INFO - Client ('127.0.0.1', 49793) set name to John
+2026-01-02 13:23:13,467 - socket_server - INFO - Accepted connection from ('127.0.0.1', 49806)
+2026-01-02 13:23:15,561 - socket_server - INFO - Client ('127.0.0.1', 49806) set name to Itay
+2026-01-02 13:23:17,584 - socket_server - INFO - Starting chat 0
+2026-01-02 13:23:17,585 - socket_server - INFO - Created new chat room 0 for client ('127.0.0.1', 49806)
+2026-01-02 13:23:34,309 - socket_server - ERROR - Error receiving message from ('127.0.0.1', 49806): [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-02 13:23:34,309 - socket_server - ERROR - Error handling client ('127.0.0.1', 49806): name 'chat_rooms' is not defined
+2026-01-02 13:23:41,358 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-02 13:23:41,359 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-02 13:23:41,359 - socket_server - DEBUG - Admin command interface started.
+2026-01-02 13:23:48,089 - socket_server - INFO - Accepted connection from ('127.0.0.1', 49826)
+2026-01-02 13:23:50,027 - socket_server - INFO - Client ('127.0.0.1', 49826) set name to itay
+2026-01-02 13:24:08,240 - socket_server - INFO - Accepted connection from ('127.0.0.1', 53664)
+2026-01-02 13:24:11,867 - socket_server - INFO - Client ('127.0.0.1', 53664) set name to Mosh
+2026-01-02 13:24:14,882 - socket_server - INFO - Starting chat 0
+2026-01-02 13:24:14,883 - socket_server - INFO - Created new chat room 0 for client ('127.0.0.1', 53664)
+2026-01-02 13:24:19,911 - socket_server - INFO - Received data from ('127.0.0.1', 49826): a
+2026-01-02 13:24:21,148 - socket_server - INFO - Starting chat 1
+2026-01-02 13:24:21,149 - socket_server - INFO - Created new chat room 1 for client ('127.0.0.1', 49826)
+2026-01-02 13:24:30,937 - socket_server - INFO - Accepted connection from ('127.0.0.1', 53665)
+2026-01-02 13:24:34,268 - socket_server - INFO - Client ('127.0.0.1', 53665) set name to test
+2026-01-02 13:25:51,068 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-02 13:25:51,070 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-02 13:25:51,071 - socket_server - DEBUG - Admin command interface started.
+2026-01-02 13:25:58,509 - socket_server - INFO - Accepted connection from ('127.0.0.1', 65387)
+2026-01-02 13:26:01,110 - socket_server - INFO - Accepted connection from ('127.0.0.1', 51794)
+2026-01-02 13:26:06,217 - socket_server - INFO - Accepted connection from ('127.0.0.1', 51795)
+2026-01-02 13:26:07,726 - socket_server - INFO - Client ('127.0.0.1', 51795) set name to Itay
+2026-01-02 13:26:09,833 - socket_server - INFO - Starting chat 0
+2026-01-02 13:26:09,833 - socket_server - INFO - Created new chat room 0 for client ('127.0.0.1', 51795)
+2026-01-02 13:26:19,338 - socket_server - INFO - Client ('127.0.0.1', 51794) set name to test
+2026-01-02 13:26:31,217 - socket_server - INFO - Client ('127.0.0.1', 51794) joined chat room 0
+2026-01-02 13:26:40,302 - socket_server - ERROR - Error receiving message from ('127.0.0.1', 51795): [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-02 13:26:40,303 - socket_server - ERROR - Error handling client ('127.0.0.1', 51795): name 'chat_rooms' is not defined
+2026-01-02 13:26:49,898 - socket_server - INFO - Accepted connection from ('127.0.0.1', 51810)
+2026-01-02 13:26:53,119 - socket_server - INFO - Client ('127.0.0.1', 51810) set name to Tester
+2026-01-02 13:27:00,304 - socket_server - INFO - Client ('127.0.0.1', 65387) set name to tester3
+2026-01-02 13:27:05,053 - socket_server - INFO - Received message from ('127.0.0.1', 51794): hello
+2026-01-02 13:27:05,131 - socket_server - ERROR - Failed to send message to ('127.0.0.1', 51795): [WinError 10038] An operation was attempted on something that is not a socket
+2026-01-02 13:27:09,881 - socket_server - INFO - Received message from ('127.0.0.1', 51794): asdf
+2026-01-02 13:27:09,956 - socket_server - ERROR - Failed to send message to ('127.0.0.1', 51795): [WinError 10038] An operation was attempted on something that is not a socket
+2026-01-02 13:27:24,760 - socket_server - INFO - Received data from ('127.0.0.1', 65387): a
+2026-01-02 13:27:26,800 - socket_server - INFO - Received data from ('127.0.0.1', 51810): a
+2026-01-02 13:27:28,811 - socket_server - INFO - Received message from ('127.0.0.1', 51794): a
+2026-01-02 13:27:28,908 - socket_server - ERROR - Failed to send message to ('127.0.0.1', 51795): [WinError 10038] An operation was attempted on something that is not a socket
+2026-01-02 13:28:26,008 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-02 13:28:26,009 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-02 13:28:26,010 - socket_server - DEBUG - Admin command interface started.
+2026-01-02 13:28:30,528 - socket_server - INFO - Accepted connection from ('127.0.0.1', 64777)
+2026-01-02 13:28:31,967 - socket_server - INFO - Client ('127.0.0.1', 64777) set name to Itay
+2026-01-02 13:28:33,400 - socket_server - INFO - Starting chat 0
+2026-01-02 13:28:33,400 - socket_server - INFO - Created new chat room 0 for client ('127.0.0.1', 64777)
+2026-01-02 13:28:38,224 - socket_server - INFO - Accepted connection from ('127.0.0.1', 64782)
+2026-01-02 13:28:40,873 - socket_server - INFO - Client ('127.0.0.1', 64782) set name to tester
+2026-01-02 13:28:57,339 - socket_server - INFO - Accepted connection from ('127.0.0.1', 64798)
+2026-01-02 13:28:59,570 - socket_server - INFO - Client ('127.0.0.1', 64798) set name to hello
+2026-01-02 13:29:03,600 - socket_server - INFO - Client ('127.0.0.1', 64782) joined chat room 0
+2026-01-02 13:29:16,881 - socket_server - INFO - Received data from ('127.0.0.1', 64798): a
+2026-01-02 13:29:25,219 - socket_server - INFO - Received message from ('127.0.0.1', 64782): hello
+2026-01-02 13:29:34,139 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-02 13:29:34,141 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-02 13:29:34,141 - socket_server - DEBUG - Admin command interface started.
+2026-01-02 13:29:36,911 - socket_server - INFO - Accepted connection from ('127.0.0.1', 64801)
+2026-01-02 13:29:38,700 - socket_server - INFO - Client ('127.0.0.1', 64801) set name to Itay
+2026-01-02 13:29:41,937 - socket_server - INFO - Accepted connection from ('127.0.0.1', 64803)
+2026-01-02 13:29:44,379 - socket_server - INFO - Client ('127.0.0.1', 64803) set name to test1
+2026-01-02 13:29:48,773 - socket_server - INFO - Received data from ('127.0.0.1', 64801): 	new
+2026-01-02 13:29:53,617 - socket_server - INFO - Received data from ('127.0.0.1', 64803): he
+2026-01-02 13:30:00,938 - socket_server - INFO - Starting chat 0
+2026-01-02 13:30:00,939 - socket_server - INFO - Created new chat room 0 for client ('127.0.0.1', 64801)
+2026-01-02 13:30:03,646 - socket_server - INFO - Received data from ('127.0.0.1', 64803): a
+2026-01-02 13:30:05,390 - socket_server - INFO - Client ('127.0.0.1', 64803) joined chat room 0
+2026-01-02 13:30:09,049 - socket_server - INFO - Accepted connection from ('127.0.0.1', 55743)
+2026-01-02 13:30:10,705 - socket_server - INFO - Client ('127.0.0.1', 55743) set name to test2
+2026-01-02 13:30:25,857 - socket_server - INFO - Client ('127.0.0.1', 55743) joined chat room 0
+2026-01-02 13:30:32,430 - socket_server - INFO - Received message from ('127.0.0.1', 64801): hello
+2026-01-02 13:30:37,122 - socket_server - INFO - Received message from ('127.0.0.1', 55743): hey
+2026-01-02 13:30:41,988 - socket_server - INFO - Received message from ('127.0.0.1', 64803): haewar
+2026-01-02 13:30:46,979 - socket_server - ERROR - Error receiving message from ('127.0.0.1', 64801): [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-02 13:30:46,979 - socket_server - INFO - Closing chat {self.chat_id}
+2026-01-02 13:30:46,981 - socket_server - ERROR - Error receiving message from ('127.0.0.1', 64803): [WinError 10053] An established connection was aborted by the software in your host machine
+2026-01-02 13:30:46,982 - socket_server - ERROR - Error handling client ('127.0.0.1', 64803): list index out of range
+2026-01-02 13:30:46,981 - socket_server - ERROR - Error receiving message from ('127.0.0.1', 55743): [WinError 10053] An established connection was aborted by the software in your host machine
+2026-01-02 13:30:46,983 - socket_server - ERROR - Error handling client ('127.0.0.1', 55743): list index out of range
+2026-01-02 13:30:46,983 - socket_server - INFO - Starting chat 0
+2026-01-07 21:50:03,688 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-07 21:50:03,689 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-07 21:50:03,689 - socket_server - DEBUG - Admin command interface started.
+2026-01-07 21:51:25,633 - socket_server - INFO - Accepted connection from ('127.0.0.1', 50947)
+2026-01-07 21:51:52,515 - socket_server - INFO - Accepted connection from ('127.0.0.1', 50959)
+2026-01-07 21:52:13,030 - socket_server - INFO - Client ('127.0.0.1', 50947) set name to Itay
+2026-01-07 21:52:23,627 - socket_server - INFO - Client ('127.0.0.1', 50959) set name to Noa
+2026-01-07 21:52:29,152 - socket_server - INFO - Starting chat 0
+2026-01-07 21:52:29,152 - socket_server - INFO - Created new chat room 0 for client ('127.0.0.1', 50947)
+2026-01-07 21:52:32,653 - socket_server - INFO - Received data from ('127.0.0.1', 50959): a
+2026-01-07 21:52:52,123 - socket_server - INFO - Accepted connection from ('127.0.0.1', 53403)
+2026-01-07 21:53:00,143 - socket_server - INFO - Client ('127.0.0.1', 53403) set name to bob
+2026-01-07 21:53:12,354 - socket_server - INFO - Client ('127.0.0.1', 50959) joined chat room 0
+2026-01-07 21:53:19,139 - socket_server - INFO - Received message from ('127.0.0.1', 50959): hello
+2026-01-07 21:53:22,247 - socket_server - INFO - Received message from ('127.0.0.1', 50959): asdf
+2026-01-07 21:53:22,517 - socket_server - INFO - Received message from ('127.0.0.1', 50959): sad
+2026-01-07 21:53:22,783 - socket_server - INFO - Received message from ('127.0.0.1', 50959): f
+2026-01-07 21:53:24,662 - socket_server - INFO - Received message from ('127.0.0.1', 50947): bafdb
+2026-01-07 21:53:25,655 - socket_server - INFO - Received message from ('127.0.0.1', 50947): fbadfb
+2026-01-07 21:53:26,159 - socket_server - INFO - Received message from ('127.0.0.1', 50947): fdb
+2026-01-07 21:53:26,463 - socket_server - INFO - Received message from ('127.0.0.1', 50947): dfb
+2026-01-07 21:53:28,779 - socket_server - INFO - Received data from ('127.0.0.1', 53403): a
+2026-01-07 21:54:04,202 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-07 21:54:04,203 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-07 21:54:04,203 - socket_server - DEBUG - Admin command interface started.
+2026-01-07 21:54:10,023 - socket_server - INFO - Accepted connection from ('127.0.0.1', 53386)
+2026-01-07 21:54:11,318 - socket_server - INFO - Accepted connection from ('127.0.0.1', 53387)
+2026-01-07 21:54:12,838 - socket_server - INFO - Client ('127.0.0.1', 53386) set name to Itay
+2026-01-07 21:54:14,173 - socket_server - INFO - Starting chat 0
+2026-01-07 21:54:14,173 - socket_server - INFO - Created new chat room 0 for client ('127.0.0.1', 53386)
+2026-01-07 21:54:16,774 - socket_server - INFO - Client ('127.0.0.1', 53387) set name to noa
+2026-01-07 21:54:20,038 - socket_server - INFO - Client ('127.0.0.1', 53387) joined chat room 0
+2026-01-07 21:54:24,857 - socket_server - INFO - Received message from ('127.0.0.1', 53387): asdf
+2026-01-07 21:54:26,181 - socket_server - INFO - Received message from ('127.0.0.1', 53386): asdf
+2026-01-07 21:54:29,594 - socket_server - INFO - Accepted connection from ('127.0.0.1', 53392)
+2026-01-07 21:54:31,590 - socket_server - INFO - Client ('127.0.0.1', 53392) set name to bob
+2026-01-07 21:54:36,847 - socket_server - INFO - Client ('127.0.0.1', 53392) joined chat room 0
+2026-01-07 21:54:37,912 - socket_server - INFO - Received message from ('127.0.0.1', 53392): oiagsd
+2026-01-07 21:54:42,872 - socket_server - INFO - Received message from ('127.0.0.1', 53392): hello
+2026-01-07 21:55:18,689 - socket_server - INFO - Accepted connection from ('127.0.0.1', 53858)
+2026-01-07 21:55:21,406 - socket_server - INFO - Client ('127.0.0.1', 53858) set name to alis
+2026-01-07 21:55:36,877 - socket_server - INFO - Received message from ('127.0.0.1', 53392): a
+2026-01-07 21:55:38,758 - socket_server - INFO - Received message from ('127.0.0.1', 53387): d
+2026-01-07 21:55:49,847 - socket_server - ERROR - Error receiving message from ('127.0.0.1', 53392): [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-07 21:55:49,847 - socket_server - INFO - Closing chat {self.chat_id}
+2026-01-07 21:55:49,847 - socket_server - ERROR - Error receiving message from ('127.0.0.1', 53386): [WinError 10053] An established connection was aborted by the software in your host machine
+2026-01-07 21:55:49,847 - socket_server - INFO - Closing chat {self.chat_id}
+2026-01-07 21:55:49,848 - socket_server - ERROR - Error receiving message from ('127.0.0.1', 53387): [WinError 10053] An established connection was aborted by the software in your host machine
+2026-01-07 21:55:49,848 - socket_server - ERROR - Error handling client ('127.0.0.1', 53387): list index out of range
+2026-01-07 21:55:49,848 - socket_server - ERROR - Error handling client ('127.0.0.1', 53392): [WinError 10038] An operation was attempted on something that is not a socket
+2026-01-07 21:55:49,849 - socket_server - INFO - Starting chat 0
+2026-01-07 21:56:03,542 - socket_server - INFO - Accepted connection from ('127.0.0.1', 53875)
+2026-01-07 21:56:06,253 - socket_server - INFO - Accepted connection from ('127.0.0.1', 53876)
+2026-01-07 21:56:08,265 - socket_server - INFO - Accepted connection from ('127.0.0.1', 53877)
+2026-01-07 21:56:09,403 - socket_server - INFO - Client ('127.0.0.1', 53877) set name to Itay
+2026-01-07 21:56:14,341 - socket_server - INFO - Client ('127.0.0.1', 53876) set name to Noa
+2026-01-07 21:56:18,615 - socket_server - INFO - Client ('127.0.0.1', 53875) set name to bob
+2026-01-07 21:56:21,062 - socket_server - INFO - Starting chat 1
+2026-01-07 21:56:21,062 - socket_server - INFO - Created new chat room 1 for client ('127.0.0.1', 53877)
+2026-01-07 21:56:28,492 - socket_server - INFO - Starting chat 2
+2026-01-07 21:56:28,492 - socket_server - INFO - Created new chat room 2 for client ('127.0.0.1', 53876)
+2026-01-07 21:56:32,486 - socket_server - INFO - Received data from ('127.0.0.1', 53875): a
+2026-01-07 21:56:40,693 - socket_server - INFO - Received data from ('127.0.0.1', 53858): a
+2026-01-07 21:56:45,234 - socket_server - INFO - Client ('127.0.0.1', 53858) joined chat room 1
+2026-01-07 21:56:46,804 - socket_server - INFO - Received message from ('127.0.0.1', 53858): asdf
+2026-01-07 21:56:49,386 - socket_server - INFO - Received data from ('127.0.0.1', 53875): a
+2026-01-07 21:56:56,701 - socket_server - INFO - Received message from ('127.0.0.1', 53858): df
+2026-01-07 21:56:58,992 - socket_server - INFO - Received data from ('127.0.0.1', 53875): alis
+2026-01-07 21:59:03,482 - socket_server - INFO - Server is running and accepting connections.
+2026-01-07 21:59:21,557 - socket_server - INFO - Received message from ('127.0.0.1', 53877): a
+2026-01-07 21:59:31,427 - socket_server - INFO - Received message from ('127.0.0.1', 53877): r
+2026-01-07 21:59:32,940 - socket_server - INFO - Received message from ('127.0.0.1', 53858): a.
+2026-01-07 21:59:33,847 - socket_server - INFO - Received message from ('127.0.0.1', 53858): as
+2026-01-07 21:59:34,064 - socket_server - INFO - Received message from ('127.0.0.1', 53858): da
+2026-01-07 22:02:47,392 - socket_server - INFO - Received message from ('127.0.0.1', 53877): wws
+2026-01-07 22:02:52,485 - socket_server - ERROR - Error receiving message from ('127.0.0.1', 53876): [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-07 22:02:52,485 - socket_server - ERROR - Error handling client ('127.0.0.1', 53876): list index out of range
+2026-01-07 22:18:18,646 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-07 22:18:18,647 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-07 22:18:18,647 - socket_server - DEBUG - Admin command interface started.
+2026-01-07 22:21:56,561 - socket_server - INFO - Accepted connection from ('127.0.0.1', 60179)
+2026-01-07 22:21:57,843 - socket_server - INFO - Accepted connection from ('127.0.0.1', 60180)
+2026-01-07 22:22:00,331 - socket_server - INFO - Client ('127.0.0.1', 60179) set name to itay
+2026-01-07 22:22:01,612 - socket_server - INFO - Client ('127.0.0.1', 60180) set name to asdf
+2026-01-07 22:22:04,528 - socket_server - INFO - Starting chat 0
+2026-01-07 22:22:04,528 - socket_server - INFO - Created new chat room 0 for client ('127.0.0.1', 60179)
+2026-01-07 22:22:04,529 - socket_server - INFO - Starting chat 0
+2026-01-07 22:24:54,515 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-07 22:24:54,516 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-07 22:24:54,516 - socket_server - DEBUG - Admin command interface started.
+2026-01-07 22:24:57,697 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-07 22:24:57,698 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-07 22:24:57,698 - socket_server - DEBUG - Admin command interface started.
+2026-01-07 22:25:07,572 - socket_server - INFO - Accepted connection from ('127.0.0.1', 55286)
+2026-01-07 22:25:09,765 - socket_server - INFO - Client ('127.0.0.1', 55286) set name to itay
+2026-01-07 22:25:12,733 - socket_server - INFO - Accepted connection from ('127.0.0.1', 55287)
+2026-01-07 22:25:13,574 - socket_server - INFO - Client ('127.0.0.1', 55287) set name to asd
+2026-01-07 22:25:16,859 - socket_server - INFO - Starting chat 0
+2026-01-07 22:25:16,860 - socket_server - INFO - Created new chat room 0 for client ('127.0.0.1', 55286)
+2026-01-07 22:25:16,861 - socket_server - INFO - Starting chat 0
+2026-01-07 22:25:18,252 - socket_server - INFO - Received data from asd ('127.0.0.1', 55287): a
+2026-01-07 22:25:19,536 - socket_server - INFO - Client ('127.0.0.1', 55287) joined chat room 0
+2026-01-07 22:26:10,337 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-07 22:26:10,338 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-07 22:26:10,339 - socket_server - DEBUG - Admin command interface started.
+2026-01-07 22:26:15,354 - socket_server - INFO - Accepted connection from ('127.0.0.1', 55299)
+2026-01-07 22:26:18,707 - socket_server - INFO - Accepted connection from ('127.0.0.1', 55300)
+2026-01-07 22:26:21,698 - socket_server - INFO - Client ('127.0.0.1', 55300) set name to itay
+2026-01-07 22:26:23,271 - socket_server - INFO - Starting chat 0
+2026-01-07 22:26:23,271 - socket_server - INFO - Created new chat room 0 for client ('127.0.0.1', 55300)
+2026-01-07 22:26:23,273 - socket_server - INFO - Starting chat 0
+2026-01-07 22:26:24,971 - socket_server - INFO - Client ('127.0.0.1', 55299) set name to asdf
+2026-01-07 22:26:26,354 - socket_server - INFO - Client ('127.0.0.1', 55299) joined chat room 0
+2026-01-07 22:28:54,177 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-07 22:28:54,178 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-07 22:28:54,178 - socket_server - DEBUG - Admin command interface started.
+2026-01-07 22:29:13,311 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-07 22:29:13,312 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-07 22:29:13,312 - socket_server - DEBUG - Admin command interface started.
+2026-01-07 22:29:16,278 - socket_server - INFO - Server is running and accepting connections.
+2026-01-07 22:29:19,493 - socket_server - INFO - Accepted connection from ('127.0.0.1', 61364)
+2026-01-07 22:29:21,924 - socket_server - INFO - Client ('127.0.0.1', 61364) set name to itay
+2026-01-07 22:29:27,344 - socket_server - INFO - Server is running and accepting connections.
+2026-01-07 22:33:35,212 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-07 22:33:35,212 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-07 22:33:35,212 - socket_server - DEBUG - Admin command interface started.
+2026-01-07 22:33:40,648 - socket_server - INFO - Accepted connection from ('127.0.0.1', 50749)
+2026-01-07 22:33:42,156 - socket_server - INFO - Client ('127.0.0.1', 50749) set name to itay
+2026-01-07 22:33:47,037 - socket_server - INFO - Server is running and accepting connections.
+2026-01-07 22:35:15,255 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-07 22:35:15,257 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-07 22:35:15,257 - socket_server - DEBUG - Admin command interface started.
+2026-01-07 22:35:18,623 - socket_server - INFO - Accepted connection from ('127.0.0.1', 58986)
+2026-01-07 22:35:20,806 - socket_server - INFO - Client ('127.0.0.1', 58986) set name to Itay
+2026-01-07 22:37:33,214 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-07 22:37:33,216 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-07 22:37:33,216 - socket_server - DEBUG - Admin command interface started.
+2026-01-07 22:37:36,504 - socket_server - INFO - Accepted connection from ('127.0.0.1', 57297)
+2026-01-07 22:37:38,136 - socket_server - INFO - Client ('127.0.0.1', 57297) set name to itay
+2026-01-07 22:37:51,995 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-07 22:37:51,996 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-07 22:37:51,996 - socket_server - DEBUG - Admin command interface started.
+2026-01-07 22:37:53,797 - socket_server - INFO - Accepted connection from ('127.0.0.1', 57301)
+2026-01-07 22:37:55,485 - socket_server - INFO - Client ('127.0.0.1', 57301) set name to itay
+2026-01-07 22:38:00,757 - socket_server - INFO - Server is running and accepting connections.
+2026-01-07 22:39:11,078 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-07 22:39:11,079 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-07 22:39:11,079 - socket_server - DEBUG - Admin command interface started.
+2026-01-07 22:39:13,114 - socket_server - INFO - Accepted connection from ('127.0.0.1', 59690)
+2026-01-07 22:39:14,208 - socket_server - INFO - Client ('127.0.0.1', 59690) set name to itay
+2026-01-07 22:39:14,209 - socket_server - INFO - Client ('127.0.0.1', 59690) added. Total clients: 1
+2026-01-07 22:39:17,970 - socket_server - INFO - Server is running and accepting connections.
+2026-01-07 22:39:35,029 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-07 22:39:35,030 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-07 22:39:35,030 - socket_server - DEBUG - Admin command interface started.
+2026-01-07 22:39:39,696 - socket_server - INFO - Accepted connection from ('127.0.0.1', 59694)
+2026-01-07 22:39:40,715 - socket_server - INFO - Client ('127.0.0.1', 59694) set name to itay
+2026-01-07 22:39:40,715 - socket_server - INFO - Client ('127.0.0.1', 59694) added. Total clients: 1
+2026-01-07 22:39:44,229 - socket_server - INFO - Server is running and accepting connections.
+2026-01-07 22:40:16,261 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-07 22:40:16,262 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-07 22:40:16,262 - socket_server - DEBUG - Admin command interface started.
+2026-01-07 22:40:17,997 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-07 22:40:17,997 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-07 22:40:17,998 - socket_server - DEBUG - Admin command interface started.
+2026-01-07 22:40:22,197 - socket_server - INFO - Accepted connection from ('127.0.0.1', 61905)
+2026-01-07 22:40:26,975 - socket_server - INFO - Client ('127.0.0.1', 61905) set name to itay
+2026-01-07 22:40:26,975 - socket_server - INFO - Client ('127.0.0.1', 61905) added. Total clients: 1
+2026-01-07 22:40:29,872 - socket_server - INFO - Server is running and accepting connections.
+2026-01-07 22:44:03,204 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-07 22:44:03,205 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-07 22:44:03,205 - socket_server - DEBUG - Admin command interface started.
+2026-01-07 22:44:09,791 - socket_server - INFO - Accepted connection from ('127.0.0.1', 64613)
+2026-01-07 22:44:11,913 - socket_server - INFO - Client ('127.0.0.1', 64613) set name to Itay
+2026-01-07 22:44:11,914 - socket_server - INFO - Client ('127.0.0.1', 64613) added. Total clients: 1
+2026-01-07 22:44:15,108 - socket_server - INFO - Server is running and accepting connections.
+2026-01-07 22:44:27,543 - socket_server - INFO - Received data from Itay ('127.0.0.1', 64613): a
+2026-01-07 22:44:37,952 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-07 22:44:37,953 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-07 22:44:37,953 - socket_server - DEBUG - Admin command interface started.
+2026-01-07 22:44:42,214 - socket_server - INFO - Accepted connection from ('127.0.0.1', 56292)
+2026-01-07 22:44:45,355 - socket_server - INFO - Client ('127.0.0.1', 56292) set name to Itay
+2026-01-07 22:44:45,355 - socket_server - INFO - Client ('127.0.0.1', 56292) added. Total clients: 1
+2026-01-07 22:44:48,338 - socket_server - INFO - Server is running and accepting connections.
+2026-01-07 23:03:23,062 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-07 23:03:23,063 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-07 23:03:23,063 - socket_server - DEBUG - Admin command interface started.
+2026-01-07 23:03:29,726 - socket_server - INFO - Accepted connection from ('127.0.0.1', 61187)
+2026-01-07 23:03:31,061 - socket_server - INFO - Client ('127.0.0.1', 61187) set name to itay
+2026-01-07 23:03:31,062 - socket_server - ERROR - Error handling client ('127.0.0.1', 61187): module 'socket_server' has no attribute 'chat_rooms'
+2026-01-07 23:04:05,069 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-07 23:04:05,070 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-07 23:04:05,070 - socket_server - DEBUG - Admin command interface started.
+2026-01-07 23:04:10,612 - socket_server - INFO - Accepted connection from ('127.0.0.1', 61191)
+2026-01-07 23:04:11,599 - socket_server - INFO - Client ('127.0.0.1', 61191) set name to itay
+2026-01-07 23:04:11,599 - socket_server - INFO - Client ('127.0.0.1', 61191) added. Total clients: 1
+2026-01-07 23:04:15,829 - socket_server - INFO - Server is running and accepting connections.
+2026-01-07 23:04:34,837 - socket_server - INFO - Starting chat 0
+2026-01-07 23:04:34,837 - socket_server - INFO - Created new chat room 0 for client ('127.0.0.1', 61191)
+2026-01-07 23:04:34,838 - socket_server - INFO - Starting chat 0
+2026-01-07 23:04:38,277 - socket_server - INFO - Accepted connection from ('127.0.0.1', 61204)
+2026-01-07 23:04:43,486 - socket_server - INFO - Client ('127.0.0.1', 61204) set name to noa
+2026-01-07 23:04:43,487 - socket_server - ERROR - Error handling client ('127.0.0.1', 61204): 'Client' object has no attribute 'full'
+2026-01-07 23:06:10,703 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-07 23:06:10,704 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-07 23:06:10,704 - socket_server - DEBUG - Admin command interface started.
+2026-01-07 23:06:14,818 - socket_server - INFO - Accepted connection from ('127.0.0.1', 63666)
+2026-01-07 23:06:16,545 - socket_server - INFO - Client ('127.0.0.1', 63666) set name to Itay
+2026-01-07 23:06:16,545 - socket_server - ERROR - Error handling client ('127.0.0.1', 63666): module 'shared_data' has no attribute 'add_client'
+2026-01-07 23:07:00,726 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-07 23:07:00,727 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-07 23:07:00,727 - socket_server - DEBUG - Admin command interface started.
+2026-01-07 23:07:03,707 - socket_server - INFO - Accepted connection from ('127.0.0.1', 65479)
+2026-01-07 23:07:15,635 - socket_server - INFO - Client ('127.0.0.1', 65479) set name to Itay
+2026-01-07 23:07:17,635 - socket_server - INFO - Starting chat 0
+2026-01-07 23:07:17,635 - socket_server - INFO - Created new chat room 0 for client ('127.0.0.1', 65479)
+2026-01-07 23:07:17,636 - socket_server - INFO - Starting chat 0
+2026-01-07 23:07:21,347 - socket_server - INFO - Accepted connection from ('127.0.0.1', 63144)
+2026-01-07 23:07:22,071 - socket_server - INFO - Client ('127.0.0.1', 63144) set name to noa
+2026-01-07 23:07:42,015 - socket_server - INFO - Client ('127.0.0.1', 63144) joined chat room 0
+2026-01-07 23:08:35,683 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-07 23:08:35,685 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-07 23:08:35,685 - socket_server - DEBUG - Admin command interface started.
+2026-01-07 23:08:40,867 - socket_server - INFO - Accepted connection from ('127.0.0.1', 51201)
+2026-01-07 23:08:42,420 - socket_server - INFO - Accepted connection from ('127.0.0.1', 51202)
+2026-01-07 23:08:46,546 - socket_server - INFO - Client ('127.0.0.1', 51201) set name to itay
+2026-01-07 23:08:48,102 - socket_server - INFO - Client ('127.0.0.1', 51202) set name to noa
+2026-01-07 23:08:50,036 - socket_server - INFO - Starting chat 1
+2026-01-07 23:08:50,036 - socket_server - INFO - Created new chat room 1 for client ('127.0.0.1', 51201)
+2026-01-07 23:08:50,037 - socket_server - INFO - Starting chat 1
+2026-01-07 23:08:53,095 - socket_server - INFO - Received data from noa ('127.0.0.1', 51202): a
+2026-01-07 23:08:55,915 - socket_server - INFO - Client ('127.0.0.1', 51202) joined chat room 1
+2026-01-07 23:09:54,504 - socket_server - INFO - Received message from ('127.0.0.1', 51202): asd
+2026-01-07 23:09:56,872 - socket_server - INFO - Received message from ('127.0.0.1', 51202): hello
+2026-01-07 23:10:00,869 - socket_server - INFO - Received message from ('127.0.0.1', 51202): how are you?
+2026-01-07 23:10:03,664 - socket_server - INFO - Received message from ('127.0.0.1', 51201): fine
+2026-01-07 23:10:06,906 - socket_server - INFO - Received message from ('127.0.0.1', 51201): what with you?
+2026-01-07 23:10:09,731 - socket_server - INFO - Received message from ('127.0.0.1', 51202): best
+2026-01-07 23:10:30,570 - socket_server - INFO - Server is running and accepting connections.
+2026-01-07 23:11:21,396 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-07 23:11:21,399 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-07 23:11:21,399 - socket_server - DEBUG - Admin command interface started.
+2026-01-07 23:11:24,278 - socket_server - INFO - Accepted connection from ('127.0.0.1', 64365)
+2026-01-07 23:11:27,328 - socket_server - INFO - Client ('127.0.0.1', 64365) set name to Itay
+2026-01-07 23:11:29,892 - socket_server - INFO - Starting chat 1
+2026-01-07 23:11:29,892 - socket_server - INFO - Created new chat room 1 for client ('127.0.0.1', 64365)
+2026-01-07 23:11:29,893 - socket_server - INFO - Starting chat 1
+2026-01-07 23:11:35,342 - socket_server - INFO - Accepted connection from ('127.0.0.1', 64376)
+2026-01-07 23:11:36,880 - socket_server - INFO - Client ('127.0.0.1', 64376) set name to noa
+2026-01-07 23:11:40,197 - socket_server - INFO - Client ('127.0.0.1', 64376) joined chat room 1
+2026-01-07 23:11:58,160 - socket_server - INFO - Received message from ('127.0.0.1', 64376): asd
+2026-01-07 23:11:58,414 - socket_server - INFO - Received message from ('127.0.0.1', 64376): asd
+2026-01-07 23:11:58,821 - socket_server - INFO - Received message from ('127.0.0.1', 64376): asd
+2026-01-07 23:11:59,929 - socket_server - ERROR - Error receiving message from ('127.0.0.1', 64376): [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-07 23:11:59,930 - socket_server - ERROR - Error handling client ('127.0.0.1', 64376): [WinError 10038] An operation was attempted on something that is not a socket
+2026-01-07 23:12:00,001 - socket_server - INFO - Client ('127.0.0.1', 64376) disconnected from chat 1
+2026-01-07 23:12:00,001 - socket_server - INFO - Client ('127.0.0.1', 64376) disconnected from chat 1
+2026-01-07 23:12:37,215 - socket_server - INFO - Received message from ('127.0.0.1', 64365): zx
+2026-01-07 23:16:22,956 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-07 23:16:22,957 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-07 23:16:22,957 - socket_server - DEBUG - Admin command interface started.
+2026-01-07 23:17:05,718 - socket_server - INFO - Accepted connection from ('127.0.0.1', 61846)
+2026-01-07 23:17:09,232 - socket_server - ERROR - Error handling client ('127.0.0.1', 61846): [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-07 23:17:16,338 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-07 23:17:16,339 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-07 23:17:16,340 - socket_server - DEBUG - Admin command interface started.
+2026-01-07 23:17:18,125 - socket_server - INFO - Accepted connection from ('127.0.0.1', 58444)
+2026-01-07 23:17:19,691 - socket_server - INFO - Client ('127.0.0.1', 58444) set name to itay
+2026-01-07 23:17:26,282 - socket_server - INFO - Accepted connection from ('127.0.0.1', 58446)
+2026-01-07 23:17:28,357 - socket_server - INFO - Starting chat 1
+2026-01-07 23:17:28,357 - socket_server - INFO - Created new chat room 1 for client ('127.0.0.1', 58444)
+2026-01-07 23:17:28,358 - socket_server - INFO - Starting chat 1
+2026-01-07 23:17:30,844 - socket_server - INFO - Client ('127.0.0.1', 58446) set name to noa
+2026-01-07 23:17:34,658 - socket_server - INFO - Client ('127.0.0.1', 58446) joined chat room 1
+2026-01-07 23:17:35,938 - socket_server - INFO - Received message from ('127.0.0.1', 58446): sadg
+2026-01-07 23:17:36,317 - socket_server - INFO - Received message from ('127.0.0.1', 58446): asdg
+2026-01-07 23:17:46,923 - socket_server - ERROR - Error receiving message from ('127.0.0.1', 58446): [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-07 23:17:46,924 - socket_server - ERROR - Error handling client ('127.0.0.1', 58446): [WinError 10038] An operation was attempted on something that is not a socket
+2026-01-07 23:17:47,022 - socket_server - INFO - Client ('127.0.0.1', 58446) disconnected from chat 1
+2026-01-07 23:17:47,023 - socket_server - INFO - Client ('127.0.0.1', 58446) disconnected from chat 1
+2026-01-07 23:19:20,174 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-07 23:19:20,175 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-07 23:19:20,175 - socket_server - DEBUG - Admin command interface started.
+2026-01-07 23:19:23,851 - socket_server - INFO - Accepted connection from ('127.0.0.1', 58194)
+2026-01-07 23:19:25,864 - socket_server - INFO - Accepted connection from ('127.0.0.1', 58195)
+2026-01-07 23:19:28,551 - socket_server - INFO - Client ('127.0.0.1', 58194) set name to itaay
+2026-01-07 23:19:30,247 - socket_server - INFO - Client ('127.0.0.1', 58195) set name to noa
+2026-01-07 23:19:31,018 - socket_server - INFO - Starting chat 1
+2026-01-07 23:19:31,018 - socket_server - INFO - Created new chat room 1 for client ('127.0.0.1', 58195)
+2026-01-07 23:19:31,019 - socket_server - INFO - Starting chat 1
+2026-01-07 23:19:32,203 - socket_server - INFO - Received data from itaay ('127.0.0.1', 58194): a
+2026-01-07 23:19:33,667 - socket_server - INFO - Client ('127.0.0.1', 58194) joined chat room 1
+2026-01-07 23:19:35,243 - socket_server - INFO - Received message from ('127.0.0.1', 58194): asdf
+2026-01-07 23:19:35,687 - socket_server - ERROR - Error receiving message from ('127.0.0.1', 58194): [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-07 23:19:35,688 - socket_server - ERROR - Error handling client ('127.0.0.1', 58194): socket.shutdown() takes exactly one argument (0 given)
+2026-01-07 23:19:46,464 - socket_server - INFO - Received message from ('127.0.0.1', 58195): asd
+2026-01-07 23:19:46,470 - socket_server - ERROR - Failed to send message to ('127.0.0.1', 58194): [WinError 10038] An operation was attempted on something that is not a socket
+2026-01-07 23:19:47,432 - socket_server - INFO - Received message from ('127.0.0.1', 58195): s
+2026-01-07 23:19:47,474 - socket_server - ERROR - Failed to send message to ('127.0.0.1', 58194): [WinError 10038] An operation was attempted on something that is not a socket
+2026-01-07 23:19:47,683 - socket_server - INFO - Received message from ('127.0.0.1', 58195): da
+2026-01-07 23:19:47,775 - socket_server - ERROR - Failed to send message to ('127.0.0.1', 58194): [WinError 10038] An operation was attempted on something that is not a socket
+2026-01-07 23:19:49,391 - socket_server - INFO - Received message from ('127.0.0.1', 58195): sdasd
+2026-01-07 23:19:49,486 - socket_server - ERROR - Failed to send message to ('127.0.0.1', 58194): [WinError 10038] An operation was attempted on something that is not a socket
+2026-01-07 23:21:44,626 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-07 23:21:44,627 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-07 23:21:44,627 - socket_server - DEBUG - Admin command interface started.
+2026-01-07 23:21:48,524 - socket_server - INFO - Accepted connection from ('127.0.0.1', 61461)
+2026-01-07 23:21:49,705 - socket_server - INFO - Client ('127.0.0.1', 61461) set name to eat
+2026-01-07 23:21:52,911 - socket_server - INFO - Accepted connection from ('127.0.0.1', 61462)
+2026-01-07 23:21:58,008 - socket_server - INFO - Starting chat 1
+2026-01-07 23:21:58,009 - socket_server - INFO - Created new chat room 1 for client ('127.0.0.1', 61461)
+2026-01-07 23:21:58,010 - socket_server - INFO - Starting chat 1
+2026-01-07 23:21:58,751 - socket_server - INFO - Client ('127.0.0.1', 61462) set name to asdf
+2026-01-07 23:22:00,042 - socket_server - INFO - Client ('127.0.0.1', 61462) joined chat room 1
+2026-01-07 23:22:02,338 - socket_server - INFO - Received message from ('127.0.0.1', 61462): sad
+2026-01-07 23:22:02,687 - socket_server - INFO - Received message from ('127.0.0.1', 61462): asd
+2026-01-07 23:22:02,919 - socket_server - INFO - Received message from ('127.0.0.1', 61462): asd
+2026-01-07 23:22:03,481 - socket_server - ERROR - Error receiving message from ('127.0.0.1', 61462): [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-07 23:22:03,482 - socket_server - ERROR - Error handling client ('127.0.0.1', 61462): socket.shutdown() takes exactly one argument (0 given)
+2026-01-07 23:22:05,657 - socket_server - INFO - Received message from ('127.0.0.1', 61461): asd
+2026-01-07 23:22:05,740 - socket_server - ERROR - Failed to send message to ('127.0.0.1', 61462): [WinError 10038] An operation was attempted on something that is not a socket
+2026-01-07 23:22:06,971 - socket_server - INFO - Received message from ('127.0.0.1', 61461): asd
+2026-01-07 23:22:07,046 - socket_server - ERROR - Failed to send message to ('127.0.0.1', 61462): [WinError 10038] An operation was attempted on something that is not a socket
+2026-01-07 23:22:07,788 - socket_server - INFO - Received message from ('127.0.0.1', 61461): asd
+2026-01-07 23:22:07,849 - socket_server - ERROR - Failed to send message to ('127.0.0.1', 61462): [WinError 10038] An operation was attempted on something that is not a socket
+2026-01-07 23:25:25,428 - socket_server - INFO - Accepted connection from ('127.0.0.1', 51315)
+2026-01-07 23:25:27,846 - socket_server - INFO - Client ('127.0.0.1', 51315) set name to itay
+2026-01-07 23:25:31,862 - socket_server - ERROR - Failed to send message to ('127.0.0.1', 61462): [WinError 10038] An operation was attempted on something that is not a socket
+2026-01-07 23:25:31,862 - socket_server - INFO - Client ('127.0.0.1', 51315) joined chat room 1
+2026-01-07 23:25:33,820 - socket_server - INFO - Received message from ('127.0.0.1', 51315): asd
+2026-01-07 23:25:33,890 - socket_server - ERROR - Failed to send message to ('127.0.0.1', 61462): [WinError 10038] An operation was attempted on something that is not a socket
+2026-01-07 23:25:36,911 - socket_server - INFO - Received message from ('127.0.0.1', 51315): a
+2026-01-07 23:25:37,002 - socket_server - ERROR - Failed to send message to ('127.0.0.1', 61462): [WinError 10038] An operation was attempted on something that is not a socket
+2026-01-07 23:25:37,226 - socket_server - INFO - Received message from ('127.0.0.1', 51315): a
+2026-01-07 23:25:37,303 - socket_server - ERROR - Failed to send message to ('127.0.0.1', 61462): [WinError 10038] An operation was attempted on something that is not a socket
+2026-01-07 23:25:37,481 - socket_server - INFO - Received message from ('127.0.0.1', 51315): a
+2026-01-07 23:25:37,504 - socket_server - ERROR - Failed to send message to ('127.0.0.1', 61462): [WinError 10038] An operation was attempted on something that is not a socket
+2026-01-07 23:25:51,809 - socket_server - INFO - Received message from ('127.0.0.1', 51315): hello
+2026-01-07 23:25:51,857 - socket_server - ERROR - Failed to send message to ('127.0.0.1', 61462): [WinError 10038] An operation was attempted on something that is not a socket
+2026-01-07 23:25:54,437 - socket_server - INFO - Received message from ('127.0.0.1', 51315): asdf
+2026-01-07 23:25:54,467 - socket_server - ERROR - Failed to send message to ('127.0.0.1', 61462): [WinError 10038] An operation was attempted on something that is not a socket
+2026-01-07 23:25:54,733 - socket_server - INFO - Received message from ('127.0.0.1', 51315): asd
+2026-01-07 23:25:54,768 - socket_server - ERROR - Failed to send message to ('127.0.0.1', 61462): [WinError 10038] An operation was attempted on something that is not a socket
+2026-01-07 23:25:54,947 - socket_server - INFO - Received message from ('127.0.0.1', 51315): f
+2026-01-07 23:25:54,969 - socket_server - ERROR - Failed to send message to ('127.0.0.1', 61462): [WinError 10038] An operation was attempted on something that is not a socket
+2026-01-07 23:26:12,205 - socket_server - INFO - Received message from ('127.0.0.1', 51315): asdfasd
+2026-01-07 23:26:12,232 - socket_server - ERROR - Failed to send message to ('127.0.0.1', 61462): [WinError 10038] An operation was attempted on something that is not a socket
+2026-01-07 23:26:12,865 - socket_server - INFO - Received message from ('127.0.0.1', 51315): asd
+2026-01-07 23:26:12,936 - socket_server - ERROR - Failed to send message to ('127.0.0.1', 61462): [WinError 10038] An operation was attempted on something that is not a socket
+2026-01-07 23:26:13,330 - socket_server - INFO - Received message from ('127.0.0.1', 51315): asd
+2026-01-07 23:26:13,337 - socket_server - ERROR - Failed to send message to ('127.0.0.1', 61462): [WinError 10038] An operation was attempted on something that is not a socket
+2026-01-07 23:26:25,743 - socket_server - INFO - Received message from ('127.0.0.1', 51315): hello
+2026-01-07 23:26:25,779 - socket_server - ERROR - Failed to send message to ('127.0.0.1', 61462): [WinError 10038] An operation was attempted on something that is not a socket
+2026-01-07 23:26:28,626 - socket_server - INFO - Received message from ('127.0.0.1', 51315): hello
+2026-01-07 23:26:28,689 - socket_server - ERROR - Failed to send message to ('127.0.0.1', 61462): [WinError 10038] An operation was attempted on something that is not a socket
+2026-01-07 23:26:34,167 - socket_server - INFO - Received message from ('127.0.0.1', 51315): hello how are you
+2026-01-07 23:26:34,208 - socket_server - ERROR - Failed to send message to ('127.0.0.1', 61462): [WinError 10038] An operation was attempted on something that is not a socket
+2026-01-07 23:26:57,689 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-07 23:26:57,690 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-07 23:26:57,690 - socket_server - DEBUG - Admin command interface started.
+2026-01-07 23:27:01,401 - socket_server - INFO - Accepted connection from ('127.0.0.1', 62376)
+2026-01-07 23:27:02,564 - socket_server - INFO - Client ('127.0.0.1', 62376) set name to Itay
+2026-01-07 23:27:04,972 - socket_server - INFO - Accepted connection from ('127.0.0.1', 62377)
+2026-01-07 23:27:06,296 - socket_server - INFO - Client ('127.0.0.1', 62377) set name to Noa
+2026-01-07 23:27:08,375 - socket_server - INFO - Starting chat 1
+2026-01-07 23:27:08,375 - socket_server - INFO - Created new chat room 1 for client ('127.0.0.1', 62377)
+2026-01-07 23:27:08,376 - socket_server - INFO - Starting chat 1
+2026-01-07 23:27:09,712 - socket_server - INFO - Client ('127.0.0.1', 62376) joined chat room 1
+2026-01-07 23:27:23,043 - socket_server - INFO - Received message from ('127.0.0.1', 62377): hello
+2026-01-07 23:28:23,645 - socket_server - INFO - Received message from ('127.0.0.1', 62377): how are you?
+2026-01-07 23:32:26,179 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-07 23:32:26,180 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-07 23:32:26,180 - socket_server - DEBUG - Admin command interface started.
+2026-01-07 23:32:43,073 - socket_server - INFO - Accepted connection from ('127.0.0.1', 62881)
+2026-01-07 23:32:46,283 - socket_server - INFO - Client ('127.0.0.1', 62881) set name to Itay
+2026-01-07 23:32:47,880 - socket_server - INFO - Accepted connection from ('127.0.0.1', 62887)
+2026-01-07 23:32:51,270 - socket_server - INFO - Client ('127.0.0.1', 62887) set name to shalom
+2026-01-07 23:32:56,933 - socket_server - INFO - Starting chat 1
+2026-01-07 23:32:56,933 - socket_server - INFO - Created new chat room 1 for client ('127.0.0.1', 62887)
+2026-01-07 23:32:56,933 - socket_server - INFO - Starting chat 1
+2026-01-07 23:33:01,964 - socket_server - INFO - Client ('127.0.0.1', 62881) joined chat room 1
+2026-01-07 23:33:03,828 - socket_server - INFO - Received message from ('127.0.0.1', 62881): teawt
+2026-01-07 23:33:04,259 - socket_server - INFO - Received message from ('127.0.0.1', 62881): awt
+2026-01-07 23:33:05,566 - socket_server - ERROR - Error receiving message from ('127.0.0.1', 62881): [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-07 23:33:05,566 - socket_server - ERROR - Error handling client ('127.0.0.1', 62881): socket.shutdown() takes exactly one argument (0 given)
+2026-01-07 23:33:08,228 - socket_server - INFO - Received message from ('127.0.0.1', 62887): he
+2026-01-07 23:33:08,271 - socket_server - ERROR - Failed to send message to ('127.0.0.1', 62881): [WinError 10038] An operation was attempted on something that is not a socket
+2026-01-07 23:33:08,271 - socket_server - INFO - Client ('127.0.0.1', 62881) removed from chat 1
+2026-01-07 23:33:42,382 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-07 23:33:42,383 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-07 23:33:42,383 - socket_server - DEBUG - Admin command interface started.
+2026-01-07 23:33:44,740 - socket_server - INFO - Accepted connection from ('127.0.0.1', 62895)
+2026-01-07 23:33:46,508 - socket_server - INFO - Client ('127.0.0.1', 62895) set name to Itay
+2026-01-07 23:33:48,238 - socket_server - INFO - Accepted connection from ('127.0.0.1', 62901)
+2026-01-07 23:33:49,509 - socket_server - INFO - Client ('127.0.0.1', 62901) set name to noa
+2026-01-07 23:33:51,881 - socket_server - INFO - Starting chat 1
+2026-01-07 23:33:51,882 - socket_server - INFO - Created new chat room 1 for client ('127.0.0.1', 62901)
+2026-01-07 23:33:51,883 - socket_server - INFO - Starting chat 1
+2026-01-07 23:33:53,431 - socket_server - INFO - Client ('127.0.0.1', 62895) joined chat room 1
+2026-01-07 23:33:59,602 - socket_server - ERROR - Error receiving message from ('127.0.0.1', 62895): [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-07 23:33:59,602 - socket_server - ERROR - Error handling client ('127.0.0.1', 62895): socket.shutdown() takes exactly one argument (0 given)
+2026-01-07 23:36:14,403 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-07 23:36:14,403 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-07 23:36:14,403 - socket_server - DEBUG - Admin command interface started.
+2026-01-07 23:36:36,649 - socket_server - INFO - Accepted connection from ('127.0.0.1', 58015)
+2026-01-07 23:36:42,414 - socket_server - INFO - Accepted connection from ('127.0.0.1', 58016)
+2026-01-07 23:36:44,140 - socket_server - INFO - Client ('127.0.0.1', 58016) set name to Itay
+2026-01-07 23:36:48,149 - socket_server - INFO - Client ('127.0.0.1', 58015) set name to Noa
+2026-01-07 23:37:05,565 - socket_server - INFO - Received data from Itay ('127.0.0.1', 58016): newq
+2026-01-07 23:37:07,624 - socket_server - INFO - Starting chat 1
+2026-01-07 23:37:07,624 - socket_server - INFO - Created new chat room 1 for client ('127.0.0.1', 58016)
+2026-01-07 23:37:07,625 - socket_server - INFO - Starting chat 1
+2026-01-07 23:37:11,317 - socket_server - INFO - Client ('127.0.0.1', 58015) joined chat room 1
+2026-01-07 23:37:22,190 - socket_server - INFO - Received message from ('127.0.0.1', 58015): asfgd
+2026-01-07 23:37:22,529 - socket_server - INFO - Received message from ('127.0.0.1', 58015): ag
+2026-01-07 23:37:22,828 - socket_server - INFO - Received message from ('127.0.0.1', 58015): asfdg
+2026-01-07 23:37:24,806 - socket_server - INFO - Received message from ('127.0.0.1', 58015): asdadsfbsadfgn
+2026-01-07 23:37:26,433 - socket_server - ERROR - Error receiving message from ('127.0.0.1', 58016): [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-07 23:38:01,552 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-07 23:38:01,553 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-07 23:38:01,553 - socket_server - DEBUG - Admin command interface started.
+2026-01-07 23:38:03,693 - socket_server - INFO - Accepted connection from ('127.0.0.1', 50437)
+2026-01-07 23:38:05,343 - socket_server - INFO - Accepted connection from ('127.0.0.1', 50438)
+2026-01-07 23:38:06,639 - socket_server - INFO - Client ('127.0.0.1', 50438) set name to itay
+2026-01-07 23:38:09,240 - socket_server - INFO - Client ('127.0.0.1', 50437) set name to noa
+2026-01-07 23:38:10,706 - socket_server - INFO - Starting chat 1
+2026-01-07 23:38:10,707 - socket_server - INFO - Created new chat room 1 for client ('127.0.0.1', 50437)
+2026-01-07 23:38:10,707 - socket_server - INFO - Starting chat 1
+2026-01-07 23:38:12,060 - socket_server - INFO - Client ('127.0.0.1', 50438) joined chat room 1
+2026-01-07 23:38:14,420 - socket_server - ERROR - Error receiving message from ('127.0.0.1', 50437): [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-07 23:38:14,420 - socket_server - INFO - Client ('127.0.0.1', 50437) disconnected. Error receiving message.
+2026-01-07 23:38:14,420 - socket_server - INFO - Client ('127.0.0.1', 50437) removed from chat 1
+2026-01-07 23:40:53,425 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-07 23:40:53,426 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-07 23:40:53,426 - socket_server - DEBUG - Admin command interface started.
+2026-01-07 23:40:57,340 - socket_server - INFO - Accepted connection from ('127.0.0.1', 60041)
+2026-01-07 23:41:00,146 - socket_server - INFO - Client ('127.0.0.1', 60041) set name to Itay
+2026-01-07 23:41:03,687 - socket_server - INFO - Accepted connection from ('127.0.0.1', 60046)
+2026-01-07 23:41:05,113 - socket_server - INFO - Client ('127.0.0.1', 60046) set name to noa
+2026-01-07 23:41:06,487 - socket_server - INFO - Starting chat 1
+2026-01-07 23:41:06,487 - socket_server - INFO - Created new chat room 1 for client ('127.0.0.1', 60046)
+2026-01-07 23:41:06,488 - socket_server - INFO - Starting chat 1
+2026-01-07 23:42:19,154 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-07 23:42:19,155 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-07 23:42:19,155 - socket_server - DEBUG - Admin command interface started.
+2026-01-07 23:42:24,506 - socket_server - INFO - Accepted connection from ('127.0.0.1', 64990)
+2026-01-07 23:42:27,315 - socket_server - INFO - Accepted connection from ('127.0.0.1', 64991)
+2026-01-07 23:42:28,727 - socket_server - INFO - Client ('127.0.0.1', 64991) set name to Itay
+2026-01-07 23:42:32,252 - socket_server - INFO - Client ('127.0.0.1', 64990) set name to Noa
+2026-01-07 23:42:34,293 - socket_server - INFO - Starting chat 1
+2026-01-07 23:42:34,293 - socket_server - INFO - Created new chat room 1 for client ('127.0.0.1', 64990)
+2026-01-07 23:42:34,294 - socket_server - INFO - Starting chat 1
+2026-01-07 23:43:33,265 - socket_server - INFO - Server listen on 127.0.0.1:10000
+2026-01-07 23:43:33,266 - socket_server - INFO - Server is running and waiting for connections...
+2026-01-07 23:43:33,266 - socket_server - DEBUG - Admin command interface started.
+2026-01-07 23:43:45,967 - socket_server - INFO - Accepted connection from ('127.0.0.1', 65010)
+2026-01-07 23:43:49,558 - socket_server - INFO - Client ('127.0.0.1', 65010) set name to Itay
+2026-01-07 23:43:53,111 - socket_server - INFO - Accepted connection from ('127.0.0.1', 65012)
+2026-01-07 23:43:54,155 - socket_server - INFO - Client ('127.0.0.1', 65012) set name to Noa
+2026-01-07 23:43:58,489 - socket_server - INFO - Starting chat 1
+2026-01-07 23:43:58,489 - socket_server - INFO - Created new chat room 1 for client ('127.0.0.1', 65012)
+2026-01-07 23:43:58,490 - socket_server - INFO - Starting chat 1
+2026-01-07 23:44:04,535 - socket_server - INFO - Received message from ('127.0.0.1', 65012): hello
+2026-01-07 23:44:06,615 - socket_server - INFO - Received message from ('127.0.0.1', 65012): how are you
+2026-01-07 23:44:09,197 - socket_server - INFO - Client ('127.0.0.1', 65010) joined chat room 1
+2026-01-07 23:44:12,267 - socket_server - INFO - Received message from ('127.0.0.1', 65010): hawelfarg
+2026-01-07 23:44:12,883 - socket_server - INFO - Received message from ('127.0.0.1', 65010): aerg
+2026-01-07 23:44:13,285 - socket_server - INFO - Received message from ('127.0.0.1', 65010): aerg
+2026-01-07 23:44:13,735 - socket_server - INFO - Received message from ('127.0.0.1', 65010): adfgad
+2026-01-07 23:44:14,351 - socket_server - INFO - Received message from ('127.0.0.1', 65010): fg
+2026-01-07 23:44:14,584 - socket_server - ERROR - Error receiving message from ('127.0.0.1', 65010): [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-07 23:44:14,584 - socket_server - INFO - Client ('127.0.0.1', 65010) disconnected. Error receiving message.
+2026-01-07 23:44:14,585 - socket_server - INFO - Client ('127.0.0.1', 65010) removed from chat 1
+2026-01-07 23:44:14,585 - socket_server - ERROR - Error handling client ('127.0.0.1', 65010): [WinError 10038] An operation was attempted on something that is not a socket
+2026-01-07 23:44:24,043 - socket_server - INFO - Received message from ('127.0.0.1', 65012): asd
+2026-01-07 23:44:24,543 - socket_server - INFO - Received message from ('127.0.0.1', 65012): asd
+2026-01-07 23:44:26,096 - socket_server - INFO - Accepted connection from ('127.0.0.1', 64842)
+2026-01-07 23:44:28,307 - socket_server - INFO - Client ('127.0.0.1', 64842) set name to asd
+2026-01-07 23:44:32,630 - socket_server - INFO - Client ('127.0.0.1', 64842) joined chat room 1
+2026-01-07 23:44:34,412 - socket_server - ERROR - Error receiving message from ('127.0.0.1', 64842): [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-01-07 23:44:34,412 - socket_server - INFO - Client ('127.0.0.1', 64842) disconnected. Error receiving message.
+2026-01-07 23:44:34,412 - socket_server - INFO - Client ('127.0.0.1', 64842) removed from chat 1
+2026-01-07 23:44:34,413 - socket_server - ERROR - Error handling client ('127.0.0.1', 64842): [WinError 10038] An operation was attempted on something that is not a socket
